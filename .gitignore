@@ -2,6 +2,10 @@ node_modules/
 dist/
 .slim/
 
+tsconfig.tsbuildinfo
+spikes/atlas-globe/tsconfig.tsbuildinfo
+.ignore
+
 *.log
 .DS_Store
 Thumbs.db
