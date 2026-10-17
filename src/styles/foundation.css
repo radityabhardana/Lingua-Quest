@@ -62,6 +62,7 @@ section[id], div[id], main[id], h1[id] { scroll-margin-top: 1.5rem; }
 
 .atlas-hero { min-height: calc(100svh - 96px); padding-top: 3.25rem; padding-bottom: 1.5rem; }
 .hero-intro { display: grid; grid-template-columns: 1.15fr 1fr; align-items: end; gap: 3rem; margin-bottom: 2rem; }
+.hero-intro > div:first-child { justify-self: start; }
 .eyebrow { display: flex; align-items: center; gap: .65rem; color: var(--brass); font-family: var(--font-label); font-size: .7rem; letter-spacing: .12em; text-transform: uppercase; line-height: 1.65; }
 .route-diamond { width: 7px; height: 7px; border: 1px solid var(--brass); transform: rotate(45deg); flex: 0 0 auto; }
 .hero-intro h1 { margin-top: .7rem; font-size: clamp(3.5rem, 6.7vw, 6.5rem); letter-spacing: -.055em; }
