@@ -3,6 +3,7 @@ import { AtlasProvider } from '../features/atlas/state/atlas'
 import { AtlasHarness } from '../features/atlas/harness/AtlasHarness'
 import { copy, type Locale } from '../i18n'
 import { LandingSections, landingCopy } from '../sections/LandingSections'
+import { useScrollAnimations } from '../hooks/useScrollAnimations'
 
 export default function App() {
   const [locale, setLocale] = useState<Locale>('en')
@@ -10,6 +11,7 @@ export default function App() {
   const page = landingCopy[locale]
 
   useEffect(() => { document.documentElement.lang = locale }, [locale])
+  useScrollAnimations()
 
   return (
     <AtlasProvider>
