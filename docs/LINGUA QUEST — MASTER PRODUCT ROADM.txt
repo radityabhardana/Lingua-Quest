@@ -1,0 +1,1112 @@
+**LINGUA QUEST — MASTER PRODUCT ROADMAP**
+
+**Platform pembelajaran bahasa dan budaya melalui eksplorasi dunia 3D, percakapan kontekstual, serta misi kepemimpinan.**
+
+**Tagline:** *Explore the world. Connect through language.*
+
+**Status dokumen:** Rencana produk dan pelaksanaan versi kompetisi. Ketentuan serta studi kasus yang diumumkan saat Technical Meeting menjadi acuan akhir untuk penyesuaian konsep.
+
+---
+
+**1. Visi dan arah produk**
+
+Lingua Quest membantu pelajar menggunakan bahasa untuk membangun hubungan, memahami konteks budaya, dan menyelesaikan masalah bersama orang lain.
+
+Pengguna berperan sebagai delegasi muda dalam program pertukaran internasional fiktif. Mereka menjelajah peta dunia, mengunjungi destinasi, berinteraksi dengan karakter, dan menyelesaikan rangkaian misi.
+
+Setiap ekspedisi menghasilkan tiga keluaran:
+
+1. Kemampuan komunikasi yang telah dipraktikkan.
+2. Pemahaman terhadap situasi sosial dan budaya tertentu.
+3. Pengalaman mengambil keputusan yang mempertimbangkan kebutuhan orang lain.
+
+Dunia 3D berfungsi sebagai ruang belajar. Lokasi, objek, karakter, dan perubahan lingkungan harus membantu pengguna memahami situasi atau melihat hasil tindakannya.
+
+**Prinsip utama produk:**
+
+- Pembelajaran terjadi melalui tindakan dan umpan balik.
+- Pengguna dapat mencoba tanpa takut kehilangan kesempatan belajar.
+- Setiap fitur memiliki tujuan yang dapat dijelaskan.
+- Pengalaman utama tersedia pada desktop dan mobile.
+- Mode ringan memiliki tujuan pembelajaran yang setara.
+- Materi, cerita fiktif, dan informasi budaya dibedakan dengan jelas.
+- Klaim manfaat didukung pengujian dan dilaporkan sesuai keterbatasannya.
+
+---
+
+**2. Posisi dalam kompetisi**
+
+**Tema:** Young Innovators, Global Explorers.
+
+**Subtema utama:** Language.
+
+**Subtema pendukung:** Leadership.
+
+| Unsur | Penerapan dalam Lingua Quest |
+|---|---|
+| Young Innovators | Pelajar membangun dan menggunakan solusi pembelajaran interaktif. |
+| Global Explorers | Pengguna mengunjungi destinasi dan memahami situasi lintas budaya. |
+| Language | Pengguna berlatih memahami, merespons, bertanya, dan menjelaskan. |
+| Leadership | Pengguna mendengarkan kebutuhan, menyusun rencana, dan membagi peran. |
+| Technology | Teknologi web menghadirkan eksplorasi 3D dengan alternatif akses yang ringan. |
+
+**Strategi penilaian:**
+
+- Orisinalitas dibuktikan melalui riset, rancangan misi, proses desain, dan dokumentasi pengembangan.
+- UI diperkuat melalui identitas visual yang konsisten serta diorama yang mudah dipahami.
+- UX diperkuat melalui alur singkat, akses tamu, responsivitas, aksesibilitas, dan pengujian.
+- Clean code diperkuat melalui pemisahan konten, mesin misi, antarmuka, dan penyimpanan.
+
+Nama, domain, dan identitas merek Lingua Quest perlu diperiksa sebelum ditetapkan sebagai identitas publik final.
+
+---
+
+**3. Masalah dan validasi awal**
+
+**Hipotesis masalah:**
+
+- Pelajar mengenal kosakata tetapi kesulitan merespons dalam situasi nyata.
+- Materi bahasa sering dipelajari terpisah dari konteks penggunaannya.
+- Pelajar membutuhkan kesempatan berlatih dengan konsekuensi yang dapat dipahami.
+- Akses perangkat dan koneksi pengguna beragam.
+
+**Problem statement:**
+
+“Bagaimana membantu pelajar berlatih komunikasi bahasa Inggris dan pengambilan keputusan lintas budaya melalui pengalaman eksplorasi web yang menarik, mudah dipahami, dan mudah diakses?”
+
+**Riset awal:**
+
+- Wawancara 5–8 pelajar.
+- Wawancara 1–2 guru atau pendamping bahasa Inggris.
+- Observasi singkat kebiasaan belajar dan perangkat yang digunakan.
+- Tinjauan beberapa produk pembelajaran serta pengalaman eksplorasi digital.
+
+**Pertanyaan riset:**
+
+1. Situasi komunikasi apa yang paling sulit bagi pengguna?
+2. Bantuan seperti apa yang membuat mereka nyaman mencoba?
+3. Apa yang membuat mereka berhenti menggunakan media belajar?
+4. Apakah eksplorasi 3D membantu memahami konteks?
+5. Bagaimana kemampuan perangkat dan koneksi mereka?
+6. Bagaimana guru menilai ketepatan materi dan umpan balik?
+
+**Hasil yang wajib dibuat:**
+
+- Ringkasan temuan.
+- Daftar kebutuhan pengguna.
+- Dua atau tiga masalah prioritas.
+- Catatan keputusan desain berdasarkan temuan.
+- Kutipan peserta yang telah diizinkan dan dianonimkan.
+
+Hipotesis harus tetap disebut hipotesis sampai ada bukti. Data riset tidak boleh direkayasa.
+
+---
+
+**4. Target pengguna dan hasil belajar**
+
+**Pengguna utama:** pelajar usia sekitar 15–18 tahun yang telah mengenal bahasa Inggris dasar.
+
+**Pengguna pendukung:** guru atau pendamping yang memakai ekspedisi sebagai aktivitas pembelajaran.
+
+**Durasi penggunaan:** satu ekspedisi sekitar 8–12 menit sebagai target awal, kemudian disesuaikan berdasarkan pengujian.
+
+**Bahasa antarmuka:** Indonesia dan Inggris.
+
+**Bahasa latihan utama:** Inggris.
+
+Ungkapan bahasa lokal dapat disertakan sebagai pengayaan dengan konteks dan sumber yang jelas. Penyelesaian ekspedisi tidak boleh diklaim sebagai sertifikasi kemahiran bahasa.
+
+**Hasil belajar versi kompetisi:**
+
+| Kemampuan | Contoh bukti |
+|---|---|
+| Memperkenalkan diri | Menyampaikan nama, asal, dan minat. |
+| Menanggapi informasi | Memilih pertanyaan lanjutan yang relevan. |
+| Meminta klarifikasi | Meminta pengulangan atau penjelasan. |
+| Memahami petunjuk | Mengikuti arah dan mengonfirmasi tujuan. |
+| Memeriksa kebutuhan | Mengajukan pertanyaan sebelum menetapkan rencana. |
+| Menjelaskan keputusan | Menyebutkan rencana dan alasannya. |
+| Membagi peran | Menyesuaikan tugas dengan informasi anggota. |
+
+---
+
+**5. Batas cakupan versi kompetisi**
+
+**Target utama:**
+
+- Satu globe interaktif.
+- Dua destinasi.
+- Tiga misi per destinasi.
+- Enam misi yang dapat diselesaikan.
+- Percakapan bercabang.
+- Audio contoh dan transkrip.
+- Sistem bantuan.
+- Umpan balik kontekstual.
+- Paspor progres.
+- Latihan ulang.
+- Mode ringan.
+- Penyimpanan progres lokal.
+- Antarmuka Indonesia–Inggris.
+- Website live dan dokumentasi.
+
+**Batas minimum yang tetap layak:**
+
+Satu destinasi dengan tiga misi lengkap, mulai dari onboarding hingga paspor, dengan mode ringan dan pengalaman mobile yang berfungsi.
+
+**Fitur lanjutan setelah produk inti stabil:**
+
+- Sinkronisasi akun.
+- AI pemberi petunjuk.
+- Latihan suara.
+- Dashboard guru.
+- Kolaborasi antarpengguna.
+- Editor misi.
+- Destinasi tambahan.
+
+Setiap fitur tambahan hanya dikerjakan setelah alur inti lulus pengujian.
+
+---
+
+**6. Pilar pengalaman produk**
+
+| Pilar | Implementasi |
+|---|---|
+| Explore | Memilih destinasi dan mengamati lingkungan. |
+| Communicate | Mendengarkan serta memberikan respons. |
+| Understand | Memeriksa konteks dan menghindari asumsi. |
+| Collaborate | Mempertimbangkan kebutuhan kelompok. |
+| Reflect | Memahami dampak keputusan. |
+| Revisit | Mengulang materi dalam situasi berbeda. |
+
+**Siklus inti:**
+
+Amati situasi → pahami informasi → pilih tindakan → lihat respons → terima penjelasan → coba variasi → simpan capaian.
+
+Setiap langkah harus mempunyai hubungan yang jelas dengan langkah berikutnya.
+
+---
+
+**7. Narasi dan struktur dunia**
+
+Pengguna menjadi delegasi dalam program fiktif **Global Youth Exchange**.
+
+Tugasnya adalah mengunjungi komunitas, mengenal peserta lain, dan membantu menyelenggarakan kegiatan bersama.
+
+**Lapisan dunia:**
+
+| Lapisan | Isi | Fungsi |
+|---|---|---|
+| Dunia | Globe dan pin destinasi | Memilih perjalanan. |
+| Destinasi | Diorama dengan beberapa lokasi | Memahami ruang dan konteks. |
+| Lokasi | Karakter dan objek interaktif | Memulai aktivitas. |
+| Misi | Dialog, tindakan, keputusan | Melatih kemampuan. |
+| Refleksi | Feedback dan capaian | Memahami hasil. |
+
+**Aturan navigasi:**
+
+- Klik atau tap menjadi kontrol utama.
+- Kamera dibatasi agar pengguna tidak kehilangan orientasi.
+- Selalu tersedia tombol kembali dan daftar misi.
+- Lokasi aktif memiliki indikator visual.
+- Destinasi dapat dipilih melalui daftar HTML.
+- Transisi dapat dilewati.
+- Pengguna tidak diwajibkan mengendalikan avatar untuk menyelesaikan misi.
+
+Diorama harus diberi konteks sebagai representasi ilustratif, bukan peta navigasi dunia nyata.
+
+---
+
+**8. Flow pengguna utama**
+
+**A. Kunjungan pertama**
+
+1. Pengguna membuka beranda.
+2. Pengguna melihat manfaat, cuplikan pengalaman, dan tombol mulai.
+3. Pengguna memilih “Mulai sebagai tamu”.
+4. Pengguna mengatur bahasa UI dan audio.
+5. Pengguna menerima briefing singkat.
+6. Pengguna memilih destinasi.
+7. Pengguna melihat tujuan dan durasi ekspedisi.
+8. Pengguna masuk ke diorama.
+9. Tutorial singkat menjelaskan satu tindakan yang diperlukan.
+10. Pengguna menjalankan misi pertama.
+
+Nama panggilan bersifat opsional. Pengguna tidak perlu mengisi formulir panjang.
+
+**B. Selama ekspedisi**
+
+1. Pilih lokasi.
+2. Baca tujuan misi.
+3. Dengarkan atau baca situasi.
+4. Periksa petunjuk.
+5. Berikan respons.
+6. Lihat konsekuensi.
+7. Baca feedback.
+8. Coba kembali bila diperlukan.
+9. Selesaikan misi.
+10. Lanjutkan perjalanan.
+
+**C. Setelah ekspedisi**
+
+1. Lihat ringkasan kemampuan.
+2. Buka cap paspor.
+3. Tinjau frasa yang perlu diulang.
+4. Pilih destinasi berikutnya atau latihan ulang.
+
+**D. Kunjungan berikutnya**
+
+1. Sistem menemukan progres lokal.
+2. Pengguna melihat tombol “Lanjutkan perjalanan”.
+3. Pengguna kembali ke posisi yang telah disimpan.
+4. Pengguna dapat membuka pengaturan atau menghapus progres.
+
+---
+
+**9. Destinasi pertama: Yogyakarta**
+
+**Judul ekspedisi:** Welcome to the Exchange.
+
+**Konteks:** pengguna tiba dalam kegiatan pertukaran pemuda dan membantu menyiapkan acara penyambutan.
+
+**Misi 1 — Meet Your Team**
+
+Tujuan:
+
+- Memperkenalkan diri.
+- Memahami informasi sederhana.
+- Mengajukan pertanyaan lanjutan.
+
+Interaksi:
+
+- Mendengarkan perkenalan.
+- Menyusun respons dari potongan frasa.
+- Memilih pertanyaan yang relevan.
+- Mendapat respons karakter.
+
+Kriteria selesai:
+
+- Perkenalan memuat informasi yang diminta.
+- Pertanyaan lanjutan berkaitan dengan informasi karakter.
+
+**Misi 2 — Find the Meeting Point**
+
+Tujuan:
+
+- Memahami arah.
+- Meminta pengulangan.
+- Mengonfirmasi lokasi.
+
+Interaksi:
+
+- Mendengar petunjuk.
+- Memilih jalur.
+- Menggunakan bantuan jika diperlukan.
+- Mengonfirmasi tujuan kepada karakter.
+
+Kriteria selesai:
+
+- Pengguna mencapai titik yang sesuai.
+- Pengguna melakukan konfirmasi.
+
+**Misi 3 — Plan an Inclusive Welcome**
+
+Tujuan:
+
+- Memahami kebutuhan anggota.
+- Menyusun kegiatan.
+- Menjelaskan keputusan.
+
+Informasi cerita:
+
+- Waktu kegiatan terbatas.
+- Seorang anggota membutuhkan jalur yang mudah diakses.
+- Seorang anggota perlu memastikan bahan makanan.
+- Anggota memiliki minat berbeda.
+
+Interaksi:
+
+- Mengumpulkan informasi.
+- Mengajukan klarifikasi.
+- Memilih kegiatan.
+- Membagi peran.
+- Menyusun pengumuman singkat.
+
+Kriteria selesai:
+
+- Rencana sesuai batas waktu.
+- Kebutuhan penting telah dipertimbangkan.
+- Pengumuman memuat lokasi, waktu, dan tugas.
+
+---
+
+**10. Destinasi kedua: Kyoto**
+
+**Judul ekspedisi:** Connect Across Cultures.
+
+**Konteks:** pengguna mengikuti kegiatan bersama komunitas tuan rumah dalam program internasional yang menggunakan bahasa Inggris.
+
+**Misi 1 — Meet Your Host**
+
+Fokus:
+
+- Sapaan sesuai situasi.
+- Perkenalan sopan.
+- Konfirmasi agenda.
+
+**Misi 2 — Read the Situation**
+
+Fokus:
+
+- Membaca petunjuk lingkungan.
+- Memeriksa informasi sebelum bertindak.
+- Mengajukan pertanyaan saat ragu.
+
+**Misi 3 — Organize a Shared Activity**
+
+Fokus:
+
+- Negosiasi sederhana.
+- Menyesuaikan kegiatan dengan kebutuhan kelompok.
+- Membagi tanggung jawab.
+- Menjelaskan perubahan rencana.
+
+Setiap karakter memiliki sifat dan kebutuhan individual. Informasi seorang karakter tidak boleh diperlakukan sebagai sifat seluruh masyarakat negaranya.
+
+Setelah dua destinasi selesai, pengguna mendapat refleksi perbandingan konteks: informasi apa yang perlu ditanyakan, apa yang berubah, dan respons apa yang tetap berguna.
+
+---
+
+**11. Spesifikasi mesin misi**
+
+Mesin misi mengatur logika pembelajaran secara terpisah dari tampilan 3D.
+
+**Jenis langkah yang didukung versi awal:**
+
+| Jenis | Fungsi |
+|---|---|
+| Observe | Mengamati objek atau informasi. |
+| Listen | Mendengarkan audio dengan transkrip. |
+| Choose | Memilih respons. |
+| Arrange | Menyusun frasa atau pesan. |
+| Decide | Menetapkan tindakan berdasarkan beberapa kebutuhan. |
+| Reflect | Membaca penjelasan atau memilih alasan. |
+| Complete | Menyimpan hasil dan membuka kelanjutan. |
+
+**Status misi:**
+
+- Belum dimulai.
+- Sedang berjalan.
+- Dijeda.
+- Selesai.
+- Tersedia untuk diulang.
+
+**Aturan transisi:**
+
+- Pilihan pengguna mengarah ke langkah yang ditentukan.
+- Respons dapat membuka informasi tambahan.
+- Kesalahan memiliki jalur pemulihan.
+- Penggunaan bantuan dicatat untuk perbaikan materi.
+- Semua jalur harus berakhir pada penyelesaian atau kesempatan mencoba kembali.
+- Tidak boleh ada percabangan yang membuat pengguna terjebak.
+
+**Penyimpanan:**
+
+- Simpan setelah langkah penting.
+- Jangan menyimpan data pada setiap frame animasi.
+- Pulihkan progres ketika pengguna kembali.
+- Jika data tidak valid, tawarkan pemulihan yang jelas.
+
+---
+
+**12. Percakapan, konsekuensi, dan umpan balik**
+
+Setiap pilihan respons mempunyai:
+
+- Isi respons.
+- Tujuan komunikasi.
+- Tingkat kesesuaian dalam konteks.
+- Reaksi karakter.
+- Penjelasan.
+- Dampak terhadap langkah berikutnya.
+
+Gunakan kategori seperti:
+
+- Sesuai konteks.
+- Dapat diterima, tetapi perlu dilengkapi.
+- Perlu klarifikasi.
+- Kurang sesuai dengan tujuan percakapan.
+
+Hindari memaksakan satu jawaban jika beberapa respons dapat diterima.
+
+**Contoh feedback:**
+
+“Pertanyaanmu sudah sopan. Tambahkan konfirmasi lokasi agar kedua pihak memiliki pemahaman yang sama.”
+
+**Konsekuensi yang layak:**
+
+- Karakter memberikan detail tambahan.
+- Pilihan kegiatan baru terbuka.
+- Rencana perlu direvisi.
+- Anggota kelompok memahami tugasnya.
+- Pengguna mendapat kesempatan memperbaiki pesan.
+
+Konsekuensi harus proporsional dan mudah dipahami.
+
+---
+
+**13. Sistem leadership**
+
+Leadership dilatih melalui perilaku dalam simulasi.
+
+| Dimensi | Perilaku yang diamati |
+|---|---|
+| Mendengarkan | Memeriksa kebutuhan anggota. |
+| Inklusivitas | Mempertimbangkan kebutuhan yang relevan. |
+| Kejelasan | Menyampaikan tujuan dan pembagian peran. |
+| Tanggung jawab | Memperhitungkan waktu dan alternatif. |
+
+Gunakan rubrik sederhana per dimensi:
+
+- 0: belum ditunjukkan.
+- 1: ditunjukkan sebagian.
+- 2: ditunjukkan sesuai kebutuhan situasi.
+
+Rubrik digunakan untuk memilih feedback. Hasilnya tidak dipresentasikan sebagai tes kepribadian atau penilaian kepemimpinan umum.
+
+Karakter simulasi harus dikenali sebagai NPC. Produk tidak boleh memberi kesan pengguna sedang berkolaborasi dengan manusia lain jika fitur tersebut belum tersedia.
+
+---
+
+**14. Paspor dan latihan ulang**
+
+**Isi paspor:**
+
+- Destinasi yang dikunjungi.
+- Misi yang diselesaikan.
+- Kemampuan yang dipraktikkan.
+- Frasa penting.
+- Catatan refleksi terstruktur.
+- Tombol mengulang.
+
+**Contoh capaian:**
+
+“Saya dapat meminta informasi diulang.”
+
+Capaian ditautkan ke misi yang mendukungnya.
+
+**Latihan ulang:**
+
+- Mengambil materi yang sebelumnya membutuhkan bantuan atau perbaikan.
+- Menggunakan variasi situasi.
+- Memberi penjelasan setelah respons.
+- Memperlihatkan progres tanpa mempermalukan pengguna.
+
+Versi awal dapat memakai antrean sederhana dan waktu ulasan berikutnya. Klaim personalisasi adaptif hanya digunakan jika mekanismenya benar-benar dibangun dan dijelaskan.
+
+Cap paspor merupakan penghargaan internal produk, bukan sertifikat kemahiran resmi.
+
+---
+
+**15. Struktur halaman dan navigasi**
+
+| Rute konseptual | Isi |
+|---|---|
+| `/` | Beranda dan tombol mulai. |
+| `/explore` | Globe dan daftar destinasi. |
+| `/destination/:id` | Preview ekspedisi. |
+| `/expedition/:id` | Diorama dan mesin misi. |
+| `/passport` | Progres dan capaian. |
+| `/review` | Latihan ulang. |
+| `/settings` | Bahasa, audio, gerakan, kualitas, data. |
+| `/about` | Tim, metode, sumber, atribusi. |
+
+Status misi dipulihkan dari progres sehingga perpindahan halaman tidak menghapus pekerjaan pengguna.
+
+**Komponen antarmuka bersama:**
+
+- Navigasi utama.
+- Kartu destinasi.
+- Daftar misi.
+- Panel dialog.
+- Pemutar audio.
+- Panel feedback.
+- Indikator progres.
+- Kontrol tampilan.
+- Pesan kesalahan dan pemulihan.
+
+Semua halaman memiliki keadaan memuat, kosong, berhasil, dan gagal yang sesuai.
+
+---
+
+**16. Sistem desain**
+
+**Karakter visual:** atlas perjalanan modern dengan diorama low-poly, panel bersih, dan hierarki tipografi kuat.
+
+| Peran | Warna awal |
+|---|---|
+| Latar | `#F6F3EC` |
+| Teks utama | `#17263C` |
+| Aksi utama | `#147D80` |
+| Aksen | `#E7A447` |
+| Permukaan panel | `#FFFFFF` |
+
+Warna merupakan titik awal. Seluruh pasangan teks dan latar harus diperiksa kontrasnya.
+
+**Aturan desain:**
+
+- Gunakan skala jarak yang konsisten.
+- Tetapkan ukuran judul, isi, label, dan caption.
+- Pertahankan label aksi yang jelas.
+- Gunakan ikon bersama teks pada kontrol penting.
+- Status tidak hanya dibedakan dengan warna.
+- Elemen interaktif memiliki keadaan fokus, aktif, nonaktif, dan memuat.
+- Sediakan ruang yang cukup untuk terjemahan.
+- Panel dialog tetap terbaca pada layar kecil.
+
+**Motion:**
+
+- Gerakan menjelaskan perpindahan atau hasil tindakan.
+- Kamera tidak bergerak terus-menerus.
+- Animasi panjang dapat dilewati.
+- Pengaturan reduce motion dihormati.
+- Feedback tersedia dalam bentuk teks meskipun animasi dimatikan.
+
+---
+
+**17. Spesifikasi dunia 3D**
+
+**Globe:**
+
+- Rotasi terbatas dan mudah dikendalikan.
+- Pin destinasi aktif.
+- Label destinasi terpilih.
+- Fokus kamera menuju pilihan.
+- Daftar destinasi sebagai alternatif.
+- Tanpa efek dekoratif berat yang menghambat navigasi.
+
+**Diorama:**
+
+- Satu scene aktif pada satu waktu.
+- Tiga lokasi inti per destinasi.
+- Kamera isometrik.
+- Objek interaktif memiliki indikator.
+- Lingkungan menggunakan aset modular.
+- Karakter memakai animasi sederhana.
+- Perubahan lingkungan terhubung ke progres.
+
+**Pipeline aset:**
+
+1. Buat daftar kebutuhan berdasarkan misi.
+2. Tentukan sumber dan lisensi.
+3. Buat atau peroleh aset.
+4. Optimalkan geometri dan tekstur.
+5. Ekspor dalam format yang sesuai.
+6. Uji ukuran, performa, dan tampilan.
+7. Catat atribusi.
+
+**Optimasi:**
+
+- Muat aset destinasi sesuai kebutuhan.
+- Gunakan ulang material dan geometri.
+- Batasi pencahayaan dinamis.
+- Gunakan instancing untuk objek berulang jika bermanfaat.
+- Sesuaikan resolusi render.
+- Jeda aktivitas saat tab tidak aktif.
+- Bersihkan resource yang tidak dipakai.
+- Sediakan tombol pindah ke mode ringan.
+
+---
+
+**18. Aksesibilitas dan dukungan perangkat**
+
+**Persyaratan wajib:**
+
+- Semua tujuan misi tersedia melalui HTML.
+- Navigasi keyboard berfungsi.
+- Fokus terlihat.
+- Dialog memiliki pengelolaan fokus.
+- Semua audio mempunyai transkrip.
+- Instruksi tidak bergantung pada suara.
+- Tidak ada aksi penting yang hanya tersedia melalui hover.
+- Ukuran tombol nyaman disentuh.
+- Konten tetap terbaca ketika diperbesar.
+- Tidak ada batas waktu ketat pada latihan inti.
+- Suara aktif setelah tindakan pengguna.
+- Mode ringan mempertahankan progres.
+
+**Mobile:**
+
+- Diorama tampil pada area atas.
+- Dialog memakai panel bawah atau layar khusus.
+- Daftar misi mudah dijangkau.
+- Rotasi globe tidak menghalangi gulir halaman.
+- Penutupan panel tidak menyebabkan pilihan tidak sengaja.
+
+Jika 3D gagal, pengguna mendapat pesan singkat dan dapat melanjutkan melalui tampilan ringan.
+
+---
+
+**19. Arsitektur teknis**
+
+**Stack awal yang disarankan:**
+
+| Bagian | Teknologi |
+|---|---|
+| Frontend | React, TypeScript, Vite |
+| Routing | React Router |
+| 3D | Three.js, React Three Fiber |
+| Utilitas 3D | Drei sesuai kebutuhan |
+| Styling | Tailwind CSS atau CSS Modules |
+| State | Zustand |
+| Validasi konten | Skema data bertipe |
+| Penyimpanan | Local storage dengan versi skema |
+| Pengujian logika | Vitest atau alat setara |
+| Pengujian alur | Playwright atau alat setara |
+| Hosting | Vercel atau Netlify |
+
+Versi dependency dipilih berdasarkan kompatibilitas saat implementasi dan dikunci dalam lockfile.
+
+**Struktur tanggung jawab:**
+
+- `app`: routing dan inisialisasi.
+- `features/exploration`: peta dan destinasi.
+- `features/mission`: mesin misi.
+- `features/passport`: capaian dan progres.
+- `features/review`: latihan ulang.
+- `features/settings`: preferensi.
+- `components`: komponen UI bersama.
+- `scenes`: presentasi 3D.
+- `content`: data pembelajaran.
+- `services`: penyimpanan, audio, dan integrasi.
+- `locales`: terjemahan UI.
+- `tests`: pemeriksaan alur penting.
+- `docs`: riset, keputusan, dan pengujian.
+
+Logika penilaian tidak ditempatkan di dalam komponen scene.
+
+---
+
+**20. Model data dan validasi**
+
+| Entitas | Data inti |
+|---|---|
+| Destination | ID, judul, lokasi, deskripsi, aset, misi. |
+| Mission | ID, tujuan, langkah awal, prasyarat, kriteria selesai. |
+| Step | Jenis, isi, pilihan, langkah berikutnya. |
+| Choice | Respons, dampak, feedback, tujuan langkah. |
+| Character | Identitas fiktif, peran, kebutuhan. |
+| Learning item | Frasa, arti, konteks, audio. |
+| Progress | Status, langkah aktif, hasil, bantuan, waktu ulasan. |
+| Settings | Bahasa UI, suara, gerakan, kualitas. |
+| Source | Referensi, atribusi, lisensi, peninjauan. |
+
+**Validasi otomatis konten:**
+
+- ID harus unik.
+- Seluruh referensi langkah harus tersedia.
+- Tidak ada misi tanpa jalur selesai.
+- Audio yang digunakan memiliki transkrip.
+- Pilihan memiliki feedback.
+- Aset yang dirujuk tersedia.
+- Tujuan misi dan indikator hasil terisi.
+- Sumber materi yang memerlukan rujukan tercatat.
+
+Perubahan format penyimpanan memerlukan migrasi atau mekanisme pemulihan data yang jelas.
+
+---
+
+**21. AI, keamanan, dan privasi**
+
+AI bersifat opsional pada pengalaman pengguna.
+
+**Jika ditambahkan:**
+
+- Gunakan untuk petunjuk atau penjelasan tambahan.
+- Batasi jawaban pada konteks materi.
+- Labeli keluaran AI.
+- Sediakan jawaban cadangan.
+- Simpan API key di server.
+- Terapkan validasi input, pembatasan permintaan, dan batas biaya.
+- Jangan menjadikan AI satu-satunya penilai capaian.
+
+**Privasi versi awal:**
+
+- Gunakan nama panggilan opsional.
+- Hindari pengumpulan identitas yang tidak diperlukan.
+- Jelaskan bahwa progres tamu disimpan di perangkat.
+- Sediakan tombol hapus progres.
+- Jangan mengirim isi percakapan atau rekaman suara tanpa penjelasan.
+- Jika mengukur penggunaan, minimalkan data dan jelaskan tujuannya.
+
+Input pengguna dirender sebagai teks aman. Kredensial tidak boleh masuk repository publik.
+
+Catat bantuan AI dalam pengembangan, termasuk bagian yang dihasilkan dan cara hasilnya diperiksa.
+
+---
+
+**22. Kualitas dan peninjauan konten**
+
+Setiap misi melewati tahap berikut:
+
+1. Penetapan tujuan.
+2. Penulisan situasi.
+3. Penulisan dialog dan cabang.
+4. Penyusunan feedback.
+5. Peninjauan bahasa.
+6. Peninjauan informasi budaya.
+7. Perekaman atau pembuatan audio berlisensi.
+8. Pemeriksaan kesesuaian transkrip.
+9. Uji pemahaman pengguna.
+10. Persetujuan untuk dipublikasikan.
+
+**Status konten:**
+
+Draft → ditinjau → direvisi → disetujui → diuji di aplikasi.
+
+Materi bahasa, identitas budaya, dan kebutuhan akses perlu ditulis dengan hormat serta konteks yang tepat.
+
+Musik, font, model, ilustrasi, dan audio masuk dalam daftar lisensi aset.
+
+---
+
+**23. Tahap pelaksanaan dan gerbang kelulusan**
+
+| Tahap | Pekerjaan | Kriteria selesai |
+|---|---|---|
+| 0. Penyelarasan | Baca brief, konfirmasi aturan, tetapkan scope | Konsep sesuai studi kasus. |
+| 1. Discovery | Riset dan prioritas masalah | Temuan serta kebutuhan terdokumentasi. |
+| 2. Desain | Sitemap, flow, wireframe, prototipe | Pengguna memahami alur awal. |
+| 3. Fondasi | Routing, state, penyimpanan, validasi | Proyek dapat dijalankan dan di-deploy. |
+| 4. Alur lengkap pertama | Satu misi dari beranda sampai paspor | Dapat diselesaikan tanpa bantuan tim. |
+| 5. Destinasi pertama | Tiga misi dan mode ringan | Seluruh tujuan inti berfungsi. |
+| 6. Perluasan | Destinasi kedua dan ulasan | Konten baru memakai mesin yang sama. |
+| 7. Validasi | Uji pengguna, perangkat, dan perbaikan | Masalah kritis selesai. |
+| 8. Rilis | Website, dokumentasi, proposal, video | Semua tautan dan berkas diperiksa. |
+| 9. Final | Latihan presentasi dan cadangan | Demo serta tanya jawab siap. |
+
+Jika gerbang tahap sebelumnya belum terpenuhi, kurangi cakupan tambahan.
+
+---
+
+**24. Jadwal kompetisi**
+
+Tanggal mengikuti guidebook dan harus disesuaikan jika panitia mengumumkan perubahan.
+
+| Tanggal | Fokus | Deliverable |
+|---|---|---|
+| 17 Oktober | Konsep dan administrasi | Rencana awal, status pendaftaran. |
+| 18 Oktober | Technical Meeting | Catatan brief dan ketentuan. |
+| 19 Oktober | Mentoring awal | Scope yang diperbarui. |
+| 20–21 Oktober | Riset dan desain | Temuan, flow, wireframe. |
+| 22–23 Oktober | Fondasi aplikasi | Routing, penyimpanan, deployment awal. |
+| 24–25 Oktober | Satu misi lengkap | Alur beranda sampai paspor. |
+| 26–28 Oktober | Destinasi pertama | Tiga misi dan mode ringan. |
+| 29–30 Oktober | Pengujian dan perbaikan | Catatan uji serta revisi. |
+| 31 Oktober | Persiapan first draft | Proposal dan README. |
+| 1 November | Pengumpulan first draft | Berkas dan tautan progres. |
+| 1–2 November | Pemilihan review | Slot konsultasi. |
+| 3–5 November | Review dan pengembangan | Masukan, tindak lanjut, destinasi kedua bila siap. |
+| 6–7 November | Pembekuan fitur dan QA | Kandidat rilis. |
+| 8 November | Dokumentasi dan video | Paket final siap diperiksa. |
+| 9 November | Final submission | Pengumpulan sebelum 23.59 WIB. |
+| 10–14 November | Persiapan presentasi | Demo dan jawaban teknis. |
+| 15 November | Pengumuman finalis | Penyesuaian persiapan. |
+| 16 November | Mentoring public speaking | Penyempurnaan presentasi. |
+| 17–20 November | Latihan final | Simulasi demo dan tanya jawab. |
+| 21 November | Babak final | Presentasi dan demo. |
+
+Tetapkan target internal pengumpulan setidaknya sehari sebelum tenggat.
+
+---
+
+**25. Pembagian kerja**
+
+**Tim tiga orang:**
+
+| Peran | Tanggung jawab |
+|---|---|
+| Product dan UI | Riset, flow, desain, responsivitas, integrasi antarmuka. |
+| 3D dan performa | Globe, diorama, aset, kamera, optimasi. |
+| Logika dan konten | Mesin misi, progres, materi, validasi, pengujian. |
+
+Dokumentasi, deployment, pemeriksaan materi, dan presentasi menjadi tanggung jawab bersama.
+
+**Jika dikerjakan sendiri:**
+
+- Selesaikan satu destinasi terlebih dahulu.
+- Gunakan aset modular berlisensi.
+- Tunda akun, AI, dan multiplayer.
+- Gunakan satu pola UI dan mesin misi yang dapat dipakai ulang.
+- Sisihkan waktu khusus untuk pengujian serta proposal.
+
+**Jika memakai AI coding agent:**
+
+- Berikan satu pekerjaan dengan batas dan kriteria selesai.
+- Minta agent membaca struktur proyek sebelum mengubah kode.
+- Tinjau perubahan dan jalankan pemeriksaan yang relevan.
+- Minta penjelasan keputusan teknis.
+- Pastikan tim mampu menjelaskan kode yang dikumpulkan.
+
+---
+
+**26. Strategi pengujian**
+
+**A. Logika**
+
+Uji:
+
+- Percabangan dialog.
+- Kriteria penyelesaian.
+- Rubrik feedback.
+- Penyimpanan dan pemulihan.
+- Migrasi progres.
+- Validasi data misi.
+
+**B. Alur pengguna**
+
+Uji:
+
+- Mulai sebagai tamu.
+- Menyelesaikan misi.
+- Menggunakan bantuan.
+- Mengulang misi.
+- Membuka paspor.
+- Melanjutkan setelah refresh.
+- Berpindah ke mode ringan.
+- Menghapus progres.
+
+**C. Perangkat dan aksesibilitas**
+
+Uji:
+
+- Desktop dan mobile.
+- Chrome, Edge, Firefox.
+- Keyboard.
+- Pembesaran teks.
+- Reduce motion.
+- Audio dimatikan.
+- WebGL gagal.
+- Koneksi lambat.
+- Layar sempit dan orientasi berubah.
+
+**D. Konten**
+
+Uji:
+
+- Ketepatan dialog.
+- Konsistensi audio dan transkrip.
+- Kewajaran feedback.
+- Kecukupan petunjuk.
+- Klaim budaya dan sumber.
+- Jalur misi yang dapat diselesaikan.
+
+Catat lingkungan uji, langkah, hasil, tingkat masalah, dan tindak lanjut.
+
+---
+
+**27. Pengukuran keberhasilan**
+
+Angka berikut merupakan target awal, bukan hasil yang telah dicapai.
+
+| Indikator | Target |
+|---|---|
+| Menemukan tombol mulai | Minimal 4 dari 5 peserta uji tanpa arahan. |
+| Menyelesaikan misi pertama | Minimal 4 dari 5 peserta uji. |
+| Kehilangan progres pada skenario uji | Nol kejadian. |
+| Kesetaraan mode ringan | Seluruh tujuan inti dapat diselesaikan. |
+| Durasi ekspedisi | Sekitar 8–12 menit. |
+| Performa 3D mobile | Usahakan sekitar 30 FPS stabil pada perangkat yang dicatat. |
+| Penggunaan keyboard | Alur inti dapat diselesaikan. |
+| Pemahaman feedback | Peserta dapat menjelaskan perbaikan yang diperlukan. |
+
+**Evaluasi pembelajaran:**
+
+- Gunakan tugas sebelum dan sesudah.
+- Buat tugas setara dengan redaksi berbeda.
+- Nilai memakai rubrik yang konsisten.
+- Laporkan jumlah peserta.
+- Pisahkan hasil terukur dan pendapat pengguna.
+- Jelaskan keterbatasan pilot kecil.
+
+Jika memungkinkan, bandingkan pengalaman 3D dan mode ringan untuk mengetahui manfaat konteks visual terhadap pemahaman.
+
+---
+
+**28. Pengelolaan masalah dan risiko**
+
+| Risiko | Tindakan |
+|---|---|
+| Brief berbeda dari asumsi awal | Pertahankan mesin misi, sesuaikan cerita dan tujuan. |
+| 3D terlalu berat | Kurangi efek, optimalkan aset, aktifkan mode ringan. |
+| Pengguna bingung | Perjelas tujuan, petunjuk, dan aksi berikutnya. |
+| Materi belum ditinjau | Tahan publikasi konten tersebut. |
+| Destinasi kedua terlambat | Prioritaskan kualitas destinasi pertama. |
+| AI gagal | Jalur terstruktur tetap berfungsi. |
+| Progres rusak | Gunakan validasi dan pemulihan. |
+| Aset bermasalah secara lisensi | Ganti dengan aset yang jelas izinnya. |
+| Demo gagal online | Gunakan cadangan lokal yang sudah diuji. |
+| Scope terus bertambah | Bekukan fitur dan gunakan daftar pengembangan lanjut. |
+
+**Tingkat masalah:**
+
+- Kritis: aplikasi tidak dapat diakses, misi terjebak, progres rusak.
+- Tinggi: fitur utama gagal pada perangkat sasaran.
+- Sedang: fungsi berjalan tetapi membingungkan.
+- Rendah: masalah visual kecil.
+
+Rilis ditahan selama masih ada masalah kritis.
+
+---
+
+**29. Dokumentasi dan paket pengumpulan**
+
+**README repository:**
+
+- Nama dan deskripsi produk.
+- Masalah dan pengguna sasaran.
+- Fitur yang tersedia.
+- Teknologi.
+- Cara menjalankan.
+- Cara build.
+- Struktur proyek.
+- Cara menambah misi.
+- Cara menjalankan pengujian.
+- Variabel lingkungan tanpa nilai rahasia.
+- Live URL.
+- Keterbatasan.
+- Referensi, lisensi, dan penggunaan AI.
+
+**First draft:**
+
+- Proposal PDF maksimal 12 halaman.
+- Latar belakang dan tujuan.
+- Sitemap serta wireframe.
+- Fitur dan teknologi.
+- Progres pengembangan.
+- Pertanyaan untuk mentor.
+- Repository publik dengan README.
+
+**Final submission:**
+
+- Proposal PDF maksimal 30 halaman.
+- Surat orisinalitas sesuai ketentuan.
+- Repository publik.
+- Website live.
+- Video pitching YouTube publik maksimal lima menit.
+- Tautan pengumpulan dengan akses yang benar.
+
+**Proposal final perlu memuat:**
+
+- Temuan riset.
+- Alasan desain.
+- Screenshot.
+- Arsitektur.
+- Pengujian.
+- Catatan tindak lanjut mentor.
+- Keterbatasan dan roadmap.
+- Referensi serta penggunaan AI.
+
+Catat masukan mentor dalam tabel: masukan, keputusan, perubahan, dan bukti hasil.
+
+---
+
+**30. Strategi presentasi**
+
+**Pesan utama:**
+
+“Lingua Quest memberi pelajar ruang untuk menggunakan bahasa dalam situasi, memahami orang lain, dan melihat dampak keputusan mereka.”
+
+**Urutan demo:**
+
+1. Mulai sebagai tamu.
+2. Pilih destinasi.
+3. Masuk ke diorama.
+4. Jalankan satu percakapan.
+5. Tunjukkan feedback dan perbaikan.
+6. Tunjukkan keputusan kelompok.
+7. Buka paspor.
+8. Tunjukkan mobile atau mode ringan.
+
+**Video maksimal lima menit:**
+
+| Durasi | Isi |
+|---|---|
+| 0:00–0:25 | Perkenalan anggota, tim, sekolah. |
+| 0:25–0:55 | Masalah dan temuan riset. |
+| 0:55–1:15 | Konsep produk. |
+| 1:15–3:30 | Demo inti. |
+| 3:30–4:15 | Pengujian dan aksesibilitas. |
+| 4:15–4:45 | Teknologi serta tindak lanjut mentor. |
+| 4:45–5:00 | Manfaat utama. |
+
+Untuk final, siapkan pitch deck maksimal 15 halaman, presentasi maksimal 10 menit, dan latihan tanya jawab lima menit sesuai guidebook.
+
+Setiap anggota harus mampu menjelaskan:
+
+- Mengapa memakai 3D.
+- Apa yang dipelajari pengguna.
+- Bagaimana materi diperiksa.
+- Bagaimana produk diuji.
+- Bagian mana yang dibantu AI.
+- Apa keterbatasannya.
+- Bagaimana produk dikembangkan berikutnya.
+
+---
+
+**31. Pertanyaan yang perlu dipastikan saat Technical Meeting**
+
+1. Apa studi kasus dan batas keluaran yang wajib dipenuhi?
+2. Bagaimana ketentuan belum pernah dipublikasikan diterapkan terhadap repository publik serta deployment selama lomba?
+3. Apakah terdapat batas atau ketentuan tambahan untuk aset, library, dan AI?
+4. Apakah layanan eksternal berbayar boleh digunakan?
+5. Bagaimana perubahan karya setelah final submission diperlakukan?
+6. Apakah ada ketentuan teknis tambahan untuk demo final?
+
+Simpan jawaban panitia sebagai bagian dokumentasi proyek.
+
+---
+
+**32. Roadmap setelah kompetisi**
+
+| Fase | Fokus | Syarat sebelum dilanjutkan |
+|---|---|---|
+| Stabilisasi | Perbaikan bug, materi, dan perangkat | Pengalaman inti konsisten. |
+| Sinkronisasi | Akun dan progres lintas perangkat | Kebijakan data serta keamanan siap. |
+| Perluasan konten | Destinasi dan variasi misi | Peninjauan materi dapat dipertahankan. |
+| Dukungan guru | Penugasan dan ringkasan capaian | Kebutuhan guru tervalidasi. |
+| Kolaborasi | Misi antarpengguna | Moderasi dan perlindungan pengguna dirancang. |
+| Personalisasi | Rekomendasi latihan | Data dan evaluasi memadai. |
+| Ekosistem konten | Editor misi | Proses kurasi dan publikasi siap. |
+
+Pengembangan ditentukan oleh bukti kebutuhan dan kemampuan menjaga kualitas.
+
+---
+
+**33. Definition of Done**
+
+Versi kompetisi dinyatakan siap apabila:
+
+- [ ] Konsep sesuai brief resmi.
+- [ ] Satu ekspedisi utuh dapat diselesaikan tanpa pendampingan.
+- [ ] Semua misi yang ditampilkan sebagai tersedia berfungsi.
+- [ ] Setiap misi memiliki tujuan dan feedback.
+- [ ] Seluruh cabang memiliki jalur pemulihan atau selesai.
+- [ ] Audio memiliki transkrip.
+- [ ] Progres dapat disimpan dan dilanjutkan.
+- [ ] Mode ringan memiliki fungsi inti yang setara.
+- [ ] Mobile dan keyboard dapat menjalankan alur utama.
+- [ ] Kegagalan grafis atau audio tidak menghentikan pembelajaran.
+- [ ] Konten bahasa dan budaya telah ditinjau.
+- [ ] Sumber, lisensi, serta bantuan AI tercatat.
+- [ ] Tidak ada rahasia dalam repository.
+- [ ] Tidak ada masalah kritis terbuka.
+- [ ] Repository dan README lengkap.
+- [ ] Website live dapat diakses publik.
+- [ ] Proposal, video, dan surat orisinalitas siap.
+- [ ] Semua tautan pengumpulan telah diuji.
+- [ ] Demo lokal dan presentasi cadangan telah dicoba.
+- [ ] Tim mampu menjelaskan keputusan produk dan teknis.
+
+**Arahan pelaksanaan akhir:**
+
+Bangun Lingua Quest dengan urutan: validasi masalah, tetapkan tujuan belajar, selesaikan satu alur penuh, uji pada pengguna, perbaiki, lalu perluas konten. Setiap keputusan fitur harus memperkuat kemampuan pengguna untuk memahami situasi, berkomunikasi, dan bekerja bersama orang lain.

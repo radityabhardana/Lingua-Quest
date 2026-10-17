@@ -1,0 +1,28 @@
+{
+  "cldr": {
+    "version": "48.2.0",
+    "license": "Unicode License v3",
+    "inputs": {
+      "mappings": {
+        "path": "node_modules/cldr-core/supplemental/codeMappings.json",
+        "sha256": "0d1ef50b92c1140e5847d22d96faf1a9c35543b0dedf8e9a2fcb87e4c51b9ed6"
+      },
+      "containment": {
+        "path": "node_modules/cldr-core/supplemental/territoryContainment.json",
+        "sha256": "9f7d2eed5278ebb7c302b7536e391708b237945c314d09a206c632c2fab45ee2"
+      },
+      "en": {
+        "path": "node_modules/cldr-localenames-full/main/en/territories.json",
+        "sha256": "158c1d575308f7e46912edbeda435c8fe2ef5dad280798231f3a432e406b1807"
+      },
+      "id": {
+        "path": "node_modules/cldr-localenames-full/main/id/territories.json",
+        "sha256": "e3842894fa28f3cab24aba190d1edc93f6a96fab5d25ce6fe6094fe83427b061"
+      }
+    }
+  },
+  "geometry": {
+    "package": "world-atlas@2.0.2",
+    "sha256": "2516C915867C7BAF18DDEC727AEC46C315541A07CFB3D79A6559B05D5E94EEE8"
+  }
+}

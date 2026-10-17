@@ -1,0 +1,3 @@
+# Atlas device diagnostic
+
+On Android Chrome and iPhone Safari, with DevTools/network throttled to Fast 4G: load `/`, verify Lite is interactive before pressing **Explore in 3D**, then record time to Canvas and median FPS from a 30-second Performance trace. Select Indonesia after rotating; verify a list-only country (VA) selects only from the list. Enable OS reduced motion, verify no automatic motion, drag vertically before/after explore, and force/revoke WebGL if tooling permits. Record device model, OS/browser version, network profile, FPS, selection result, and Console errors. Do not approve 3D below 30 median FPS or above 4 seconds Canvas readiness.

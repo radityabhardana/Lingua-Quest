@@ -1,0 +1,18 @@
+import { canonicalAlpha2, inertIds, listOnly } from './policy'
+
+type Input={manifest:any;provenance:any;topology:any;topologyHash:string;packageVersions:{cldr:string;worldAtlas:string};sourceHashes:Record<string,string>;mappings:any;containment:any;en:Record<string,string>;id:Record<string,string>}
+const fail=(message:string):never=>{throw Error(message)}
+const required=['containment','en','id','mappings']
+export function validateAtlas(input:Input){const {manifest,provenance,topology,sourceHashes,mappings,en,id}=input,rows=manifest.records
+  if(provenance.cldr?.version!=='48.2.0'||input.packageVersions.cldr!=='48.2.0'||provenance.geometry?.package!=='world-atlas@2.0.2'||input.packageVersions.worldAtlas!=='2.0.2'||provenance.geometry.sha256!==input.topologyHash||Object.keys(provenance.cldr?.inputs??{}).sort().join(',')!==required.join(','))fail('provenance inputs')
+  for(const key of required)if(!provenance.cldr.inputs[key]?.sha256||provenance.cldr.inputs[key].sha256!==sourceHashes[key])fail(`source hash ${key}`)
+  if(rows.length!==195||new Set(rows.map((r:any)=>r.alpha2)).size!==195||rows.map((r:any)=>r.alpha2).sort().join(',')!==[...canonicalAlpha2].sort().join(','))fail('canonical alpha2')
+  if(new Set(rows.map((r:any)=>r.alpha3)).size!==195||new Set(rows.map((r:any)=>r.numeric)).size!==195)fail('unique ISO mappings')
+  if(rows.filter((r:any)=>r.unStatus==='member').length!==193||rows.filter((r:any)=>r.unStatus==='observer').map((r:any)=>r.alpha2).sort().join(',')!=='PS,VA')fail('membership')
+  if(rows.filter((r:any)=>r.geometryStatus==='matched').length!==166||rows.filter((r:any)=>r.geometryStatus==='missing-110m').length!==29)fail('geometry counts')
+  const parents=new Map<string,string[]>();for(const [parent,value] of Object.entries<any>(input.containment))if(!parent.includes('-'))for(const child of value._contains??[])parents.set(child,[...(parents.get(child)??[]),parent]);const continents=new Set(['002','009','019','142','150']);const hierarchy=(code:string):string[]|undefined=>{const walk=(node:string,path:string[]=[]):string[]|undefined=>continents.has(node)?[node,...path]:(parents.get(node)??[]).map(p=>walk(p,[node,...path])).find(Boolean);return walk(code)}
+  for(const r of rows){const m=mappings[r.alpha2],h=hierarchy(r.alpha2);if(!m?._numeric||!m?._alpha3||r.numeric!==m._numeric||r.alpha3!==m._alpha3||!/^\d{3}$/.test(r.numeric)||!r.nameEn||!r.nameId||r.nameEn!==en[r.alpha2]||r.nameId!==(id[r.alpha2]??en[r.alpha2])||!h||r.region.code!==h[0]||r.subregion.code!==h[1]||!/^\d{3}$/.test(r.region.code)||!/^\d{3}$/.test(r.subregion.code)||r.region.nameEn!==en[h[0]]||r.region.nameId!==(id[h[0]]??en[h[0]])||r.subregion.nameEn!==en[h[1]]||r.subregion.nameId!==(id[h[1]]??en[h[1]]))fail(`CLDR mapping ${r.alpha2}`);const missing=listOnly.has(r.alpha2);if(missing!==(r.geometryId===null)||r.geometryStatus!==(missing?'missing-110m':'matched')||(!missing&&r.geometryId!==r.numeric))fail(`geometry policy ${r.alpha2}`)}
+  const geometries=topology.objects.countries.geometries as any[], ids=new Set<string>();let nulls=0;for(const g of geometries){if(g.id==null){nulls++;continue}ids.add(String(g.id).padStart(3,'0'))}if(nulls!==3)fail('null geometry count');if([...inertIds].some(x=>!ids.has(x))||[...ids].filter(x=>inertIds.has(x)).length!==8)fail('inert geometry set')
+  const matched=rows.filter((r:any)=>r.geometryId).map((r:any)=>r.geometryId);for(const numeric of matched)if(!ids.has(numeric))fail(`missing matched geometry ${numeric}`);for(const value of ids)if(!matched.includes(value)&&!inertIds.has(value))fail(`unexpected geometry ${value}`)
+  return true
+}
