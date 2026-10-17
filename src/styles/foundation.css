@@ -84,7 +84,7 @@ section[id], div[id], main[id], h1[id] { scroll-margin-top: 1.5rem; }
 .atlas-harness { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) 21rem; gap: 1rem 1.5rem; padding: 1.5rem; border: 1px solid var(--rule); border-radius: 12px; background: #0b1523; }
 .atlas-harness > * { min-width: 0; }
 .atlas-stage { position: relative; grid-column: 1; min-height: 365px; height: clamp(365px, 43vh, 520px); isolation: isolate; border-radius: 8px; background: radial-gradient(ellipse at 50% 55%, #19334a 0, #101e30 38%, #0b1523 73%); overflow: visible; }
-.atlas-stage canvas { display: block; width: 100% !important; height: 100% !important; border-radius: inherit; }
+.atlas-stage canvas { display: block; width: 100% !important; height: 100% !important; }
 .atlas-stage > div:has(canvas) { position: absolute !important; inset: 0; width: 100% !important; height: 100% !important; }
 .atlas-poster { position: absolute; inset: 0; color: #a0c9d2; font-size: 0; line-height: 1; pointer-events: none; }
 .atlas-poster:not(:has(svg))::before { content: ''; position: absolute; inset: 0 0 2.75rem; width: min(100%, 480px); margin-inline: auto; background: url('../design-system/night-atlas-poster.svg') center / contain no-repeat; }
