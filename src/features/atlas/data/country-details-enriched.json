@@ -1,0 +1,4977 @@
+{
+  "AW": {
+    "alpha2": "AW",
+    "capital": "Oranjestad",
+    "population": "109 thousand",
+    "area": "180 km²",
+    "languages": {
+      "official": [
+        "Dutch",
+        "Papiamento"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "12.5°N 70.0°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "AF": {
+    "alpha2": "AF",
+    "capital": "Kabul",
+    "population": "43.8 million",
+    "area": "652,230 km²",
+    "languages": {
+      "official": [
+        "Dari",
+        "Pashto",
+        "Turkmen"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "33.0°N 65.0°E",
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  "AO": {
+    "alpha2": "AO",
+    "capital": "Luanda",
+    "population": "39 million",
+    "area": "1,246,700 km²",
+    "languages": {
+      "official": [
+        "Portuguese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "12.5°S 18.5°E",
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "AI": {
+    "alpha2": "AI",
+    "capital": "The Valley",
+    "population": null,
+    "area": "91 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.3°N 63.2°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "AX": {
+    "alpha2": "AX",
+    "capital": "Mariehamn",
+    "population": null,
+    "area": "1,580 km²",
+    "languages": {
+      "official": [
+        "Swedish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "60.1°N 19.9°E",
+    "borders": [],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "AL": {
+    "alpha2": "AL",
+    "capital": "Tirana",
+    "population": "2.3 million",
+    "area": "28,748 km²",
+    "languages": {
+      "official": [
+        "Albanian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "41.0°N 20.0°E",
+    "borders": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "UNK"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe"
+  },
+  "AD": {
+    "alpha2": "AD",
+    "capital": "Andorra la Vella",
+    "population": "83 thousand",
+    "area": "468 km²",
+    "languages": {
+      "official": [
+        "Catalan"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "42.5°N 1.5°E",
+    "borders": [
+      "FRA",
+      "ESP"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "AE": {
+    "alpha2": "AE",
+    "capital": "Abu Dhabi",
+    "population": "11.5 million",
+    "area": "83,600 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "24.0°N 54.0°E",
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "AR": {
+    "alpha2": "AR",
+    "capital": "Buenos Aires",
+    "population": "45.9 million",
+    "area": "2,780,400 km²",
+    "languages": {
+      "official": [
+        "Guaraní",
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "34.0°S 64.0°W",
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "AM": {
+    "alpha2": "AM",
+    "capital": "Yerevan",
+    "population": "3.1 million",
+    "area": "29,743 km²",
+    "languages": {
+      "official": [
+        "Armenian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "40.0°N 45.0°E",
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "AS": {
+    "alpha2": "AS",
+    "capital": "Pago Pago",
+    "population": "46 thousand",
+    "area": "199 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Samoan"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "14.3°S 170.0°W",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "AQ": {
+    "alpha2": "AQ",
+    "capital": null,
+    "population": null,
+    "area": "14,000,000 km²",
+    "languages": {
+      "official": [],
+      "widelySpoken": []
+    },
+    "coordinates": "90.0°S 0.0°E",
+    "borders": [],
+    "region": "Antarctic",
+    "subregion": null
+  },
+  "TF": {
+    "alpha2": "TF",
+    "capital": "Port-aux-Français",
+    "population": null,
+    "area": "7,747 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "49.3°S 69.2°E",
+    "borders": [],
+    "region": "Antarctic",
+    "subregion": null
+  },
+  "AG": {
+    "alpha2": "AG",
+    "capital": "Saint John's",
+    "population": "94 thousand",
+    "area": "442 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "17.1°N 61.8°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "AU": {
+    "alpha2": "AU",
+    "capital": "Canberra",
+    "population": "27.6 million",
+    "area": "7,692,024 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "27.0°S 133.0°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  "AT": {
+    "alpha2": "AT",
+    "capital": "Vienna",
+    "population": "9.2 million",
+    "area": "83,871 km²",
+    "languages": {
+      "official": [
+        "Austro-Bavarian German"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "47.3°N 13.3°E",
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe"
+  },
+  "AZ": {
+    "alpha2": "AZ",
+    "capital": "Baku",
+    "population": "10.2 million",
+    "area": "86,600 km²",
+    "languages": {
+      "official": [
+        "Azerbaijani",
+        "Russian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "40.5°N 47.5°E",
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "BI": {
+    "alpha2": "BI",
+    "capital": "Gitega",
+    "population": "14.4 million",
+    "area": "27,834 km²",
+    "languages": {
+      "official": [
+        "French",
+        "Kirundi"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "3.5°S 30.0°E",
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "BE": {
+    "alpha2": "BE",
+    "capital": "Brussels",
+    "population": "11.9 million",
+    "area": "30,528 km²",
+    "languages": {
+      "official": [
+        "German",
+        "French",
+        "Dutch"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "50.8°N 4.0°E",
+    "borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  "BJ": {
+    "alpha2": "BJ",
+    "capital": "Porto-Novo",
+    "population": "14.8 million",
+    "area": "112,622 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "9.5°N 2.3°E",
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "BF": {
+    "alpha2": "BF",
+    "capital": "Ouagadougou",
+    "population": "24.1 million",
+    "area": "272,967 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.0°N 2.0°W",
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "BD": {
+    "alpha2": "BD",
+    "capital": "Dhaka",
+    "population": "175.7 million",
+    "area": "147,570 km²",
+    "languages": {
+      "official": [
+        "Bengali"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "24.0°N 90.0°E",
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  "BG": {
+    "alpha2": "BG",
+    "capital": "Sofia",
+    "population": "6.4 million",
+    "area": "110,879 km²",
+    "languages": {
+      "official": [
+        "Bulgarian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "43.0°N 25.0°E",
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe"
+  },
+  "BH": {
+    "alpha2": "BH",
+    "capital": "Manama",
+    "population": "1.6 million",
+    "area": "765 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "26.0°N 50.5°E",
+    "borders": [],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "BS": {
+    "alpha2": "BS",
+    "capital": "Nassau",
+    "population": "403 thousand",
+    "area": "13,943 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "24.3°N 76.0°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "BA": {
+    "alpha2": "BA",
+    "capital": "Sarajevo",
+    "population": "3.1 million",
+    "area": "51,209 km²",
+    "languages": {
+      "official": [
+        "Bosnian",
+        "Croatian",
+        "Serbian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "44.0°N 18.0°E",
+    "borders": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe"
+  },
+  "BL": {
+    "alpha2": "BL",
+    "capital": "Gustavia",
+    "population": null,
+    "area": "21 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.5°N 63.4°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "SH": {
+    "alpha2": "SH",
+    "capital": "Jamestown",
+    "population": null,
+    "area": "394 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.9°S 5.7°W",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "BY": {
+    "alpha2": "BY",
+    "capital": "Minsk",
+    "population": "9.1 million",
+    "area": "207,600 km²",
+    "languages": {
+      "official": [
+        "Belarusian",
+        "Russian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "53.0°N 28.0°E",
+    "borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  "BZ": {
+    "alpha2": "BZ",
+    "capital": "Belmopan",
+    "population": "423 thousand",
+    "area": "22,966 km²",
+    "languages": {
+      "official": [
+        "Belizean Creole",
+        "English",
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "17.3°N 88.8°W",
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  "BM": {
+    "alpha2": "BM",
+    "capital": "Hamilton",
+    "population": "65 thousand",
+    "area": "54 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "32.3°N 64.8°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  "BO": {
+    "alpha2": "BO",
+    "capital": "Sucre",
+    "population": "12.6 million",
+    "area": "1,098,581 km²",
+    "languages": {
+      "official": [
+        "Aymara",
+        "Guaraní",
+        "Quechua",
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "17.0°S 65.0°W",
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "BQ": {
+    "alpha2": "BQ",
+    "capital": "Kralendijk",
+    "population": null,
+    "area": "328 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Dutch",
+        "Papiamento"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "12.2°N 68.3°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "BR": {
+    "alpha2": "BR",
+    "capital": "Brasília",
+    "population": "212.8 million",
+    "area": "8,515,767 km²",
+    "languages": {
+      "official": [
+        "Portuguese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "10.0°S 55.0°W",
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "BB": {
+    "alpha2": "BB",
+    "capital": "Bridgetown",
+    "population": "283 thousand",
+    "area": "430 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.2°N 59.5°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "BN": {
+    "alpha2": "BN",
+    "capital": "Bandar Seri Begawan",
+    "population": "466 thousand",
+    "area": "5,765 km²",
+    "languages": {
+      "official": [
+        "Malay"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "4.5°N 114.7°E",
+    "borders": [
+      "MYS"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "BT": {
+    "alpha2": "BT",
+    "capital": "Thimphu",
+    "population": "797 thousand",
+    "area": "38,394 km²",
+    "languages": {
+      "official": [
+        "Dzongkha"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "27.5°N 90.5°E",
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  "BV": {
+    "alpha2": "BV",
+    "capital": null,
+    "population": null,
+    "area": "49 km²",
+    "languages": {
+      "official": [
+        "Norwegian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "54.4°S 3.4°E",
+    "borders": [],
+    "region": "Antarctic",
+    "subregion": null
+  },
+  "BW": {
+    "alpha2": "BW",
+    "capital": "Gaborone",
+    "population": "2.6 million",
+    "area": "582,000 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Tswana"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "22.0°S 24.0°E",
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  "CF": {
+    "alpha2": "CF",
+    "capital": "Bangui",
+    "population": "5.5 million",
+    "area": "622,984 km²",
+    "languages": {
+      "official": [
+        "French",
+        "Sango"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "7.0°N 21.0°E",
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "CA": {
+    "alpha2": "CA",
+    "capital": "Ottawa",
+    "population": "41.7 million",
+    "area": "9,984,670 km²",
+    "languages": {
+      "official": [
+        "English",
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "60.0°N 95.0°W",
+    "borders": [
+      "USA"
+    ],
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  "CC": {
+    "alpha2": "CC",
+    "capital": "West Island",
+    "population": null,
+    "area": "14 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "12.5°S 96.8°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  "CH": {
+    "alpha2": "CH",
+    "capital": "Bern",
+    "population": "9.1 million",
+    "area": "41,284 km²",
+    "languages": {
+      "official": [
+        "French",
+        "Swiss German",
+        "Italian",
+        "Romansh"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "47.0°N 8.0°E",
+    "borders": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  "CL": {
+    "alpha2": "CL",
+    "capital": "Santiago",
+    "population": "19.9 million",
+    "area": "756,102 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "30.0°S 71.0°W",
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "CN": {
+    "alpha2": "CN",
+    "capital": "Beijing",
+    "population": "1406.6 million",
+    "area": "9,706,961 km²",
+    "languages": {
+      "official": [
+        "Chinese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "35.0°N 105.0°E",
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  "CI": {
+    "alpha2": "CI",
+    "capital": "Yamoussoukro",
+    "population": "32.7 million",
+    "area": "322,463 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "8.0°N 5.0°W",
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "CM": {
+    "alpha2": "CM",
+    "capital": "Yaoundé",
+    "population": "29.9 million",
+    "area": "475,442 km²",
+    "languages": {
+      "official": [
+        "English",
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "6.0°N 12.0°E",
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "CD": {
+    "alpha2": "CD",
+    "capital": "Kinshasa",
+    "population": "112.8 million",
+    "area": "2,344,858 km²",
+    "languages": {
+      "official": [
+        "French",
+        "Kikongo",
+        "Lingala",
+        "Tshiluba",
+        "Swahili"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "0.0°N 25.0°E",
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "CG": {
+    "alpha2": "CG",
+    "capital": "Brazzaville",
+    "population": "6.5 million",
+    "area": "342,000 km²",
+    "languages": {
+      "official": [
+        "French",
+        "Kikongo",
+        "Lingala"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "1.0°S 15.0°E",
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "CK": {
+    "alpha2": "CK",
+    "capital": "Avarua",
+    "population": null,
+    "area": "236 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Cook Islands Māori"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "21.2°S 159.8°W",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "CO": {
+    "alpha2": "CO",
+    "capital": "Bogotá",
+    "population": "53.4 million",
+    "area": "1,141,748 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "4.0°N 72.0°W",
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "KM": {
+    "alpha2": "KM",
+    "capital": "Moroni",
+    "population": "883 thousand",
+    "area": "1,862 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "French",
+        "Comorian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "12.2°S 44.3°E",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "CV": {
+    "alpha2": "CV",
+    "capital": "Praia",
+    "population": "527 thousand",
+    "area": "4,033 km²",
+    "languages": {
+      "official": [
+        "Portuguese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "16.0°N 24.0°W",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "CR": {
+    "alpha2": "CR",
+    "capital": "San José",
+    "population": "5.2 million",
+    "area": "51,100 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "10.0°N 84.0°W",
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  "CU": {
+    "alpha2": "CU",
+    "capital": "Havana",
+    "population": "10.9 million",
+    "area": "109,884 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "21.5°N 80.0°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "CW": {
+    "alpha2": "CW",
+    "capital": "Willemstad",
+    "population": "156 thousand",
+    "area": "444 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Dutch",
+        "Papiamento"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "12.1°N 68.9°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "CX": {
+    "alpha2": "CX",
+    "capital": "Flying Fish Cove",
+    "population": null,
+    "area": "135 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "10.5°S 105.7°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  "KY": {
+    "alpha2": "KY",
+    "capital": "George Town",
+    "population": "76 thousand",
+    "area": "264 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "19.5°N 80.5°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "CY": {
+    "alpha2": "CY",
+    "capital": "Nicosia",
+    "population": "1.4 million",
+    "area": "9,251 km²",
+    "languages": {
+      "official": [
+        "Greek",
+        "Turkish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "35.0°N 33.0°E",
+    "borders": [],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "CZ": {
+    "alpha2": "CZ",
+    "capital": "Prague",
+    "population": "10.9 million",
+    "area": "78,865 km²",
+    "languages": {
+      "official": [
+        "Czech",
+        "Slovak"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "49.8°N 15.5°E",
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe"
+  },
+  "DE": {
+    "alpha2": "DE",
+    "capital": "Berlin",
+    "population": "83.5 million",
+    "area": "357,114 km²",
+    "languages": {
+      "official": [
+        "German"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "51.0°N 9.0°E",
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  "DJ": {
+    "alpha2": "DJ",
+    "capital": "Djibouti",
+    "population": "1.2 million",
+    "area": "23,200 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "11.5°N 43.0°E",
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "DM": {
+    "alpha2": "DM",
+    "capital": "Roseau",
+    "population": "66 thousand",
+    "area": "751 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.4°N 61.3°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "DK": {
+    "alpha2": "DK",
+    "capital": "Copenhagen",
+    "population": "6 million",
+    "area": "43,094 km²",
+    "languages": {
+      "official": [
+        "Danish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "56.0°N 10.0°E",
+    "borders": [
+      "DEU"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "DO": {
+    "alpha2": "DO",
+    "capital": "Santo Domingo",
+    "population": "11.5 million",
+    "area": "48,671 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "19.0°N 70.7°W",
+    "borders": [
+      "HTI"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "DZ": {
+    "alpha2": "DZ",
+    "capital": "Algiers",
+    "population": "47.4 million",
+    "area": "2,381,741 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "28.0°N 3.0°E",
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  "EC": {
+    "alpha2": "EC",
+    "capital": "Quito",
+    "population": "18.3 million",
+    "area": "276,841 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "2.0°S 77.5°W",
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "EG": {
+    "alpha2": "EG",
+    "capital": "Cairo",
+    "population": "118.4 million",
+    "area": "1,002,450 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "27.0°N 30.0°E",
+    "borders": [
+      "ISR",
+      "LBY",
+      "PSE",
+      "SDN"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  "ER": {
+    "alpha2": "ER",
+    "capital": "Asmara",
+    "population": "3.6 million",
+    "area": "117,600 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "English",
+        "Tigrinya"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.0°N 39.0°E",
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "EH": {
+    "alpha2": "EH",
+    "capital": "El Aaiún",
+    "population": null,
+    "area": "266,000 km²",
+    "languages": {
+      "official": [
+        "Berber",
+        "Hassaniya",
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "24.5°N 13.0°W",
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  "ES": {
+    "alpha2": "ES",
+    "capital": "Madrid",
+    "population": "49.4 million",
+    "area": "505,992 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "40.0°N 4.0°W",
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "EE": {
+    "alpha2": "EE",
+    "capital": "Tallinn",
+    "population": "1.4 million",
+    "area": "45,227 km²",
+    "languages": {
+      "official": [
+        "Estonian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "59.0°N 26.0°E",
+    "borders": [
+      "LVA",
+      "RUS"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "ET": {
+    "alpha2": "ET",
+    "capital": "Addis Ababa",
+    "population": "135.5 million",
+    "area": "1,104,300 km²",
+    "languages": {
+      "official": [
+        "Amharic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "8.0°N 38.0°E",
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "FI": {
+    "alpha2": "FI",
+    "capital": "Helsinki",
+    "population": "5.6 million",
+    "area": "338,424 km²",
+    "languages": {
+      "official": [
+        "Finnish",
+        "Swedish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "64.0°N 26.0°E",
+    "borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "FJ": {
+    "alpha2": "FJ",
+    "capital": "Suva",
+    "population": "933 thousand",
+    "area": "18,272 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Fijian",
+        "Fiji Hindi"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.0°S 175.0°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  "FK": {
+    "alpha2": "FK",
+    "capital": "Stanley",
+    "population": null,
+    "area": "12,173 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "51.8°S 59.0°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "FR": {
+    "alpha2": "FR",
+    "capital": "Paris",
+    "population": "68.7 million",
+    "area": "551,695 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "46.0°N 2.0°E",
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  "FO": {
+    "alpha2": "FO",
+    "capital": "Tórshavn",
+    "population": "55 thousand",
+    "area": "1,393 km²",
+    "languages": {
+      "official": [
+        "Danish",
+        "Faroese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "62.0°N 7.0°W",
+    "borders": [],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "FM": {
+    "alpha2": "FM",
+    "capital": "Palikir",
+    "population": "114 thousand",
+    "area": "702 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "6.9°N 158.3°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  "GA": {
+    "alpha2": "GA",
+    "capital": "Libreville",
+    "population": "2.6 million",
+    "area": "267,668 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "1.0°S 11.8°E",
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "GB": {
+    "alpha2": "GB",
+    "capital": "London",
+    "population": "69.5 million",
+    "area": "242,900 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "54.0°N 2.0°W",
+    "borders": [
+      "IRL"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "GE": {
+    "alpha2": "GE",
+    "capital": "Tbilisi",
+    "population": "3.9 million",
+    "area": "69,700 km²",
+    "languages": {
+      "official": [
+        "Georgian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "42.0°N 43.5°E",
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "GG": {
+    "alpha2": "GG",
+    "capital": "St. Peter Port",
+    "population": null,
+    "area": "78 km²",
+    "languages": {
+      "official": [
+        "English",
+        "French",
+        "Guernésiais"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "49.5°N 2.6°W",
+    "borders": [],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "GH": {
+    "alpha2": "GH",
+    "capital": "Accra",
+    "population": "35.1 million",
+    "area": "238,533 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "8.0°N 2.0°W",
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "GI": {
+    "alpha2": "GI",
+    "capital": "Gibraltar",
+    "population": "40 thousand",
+    "area": "6 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "36.1°N 5.3°W",
+    "borders": [
+      "ESP"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "GN": {
+    "alpha2": "GN",
+    "capital": "Conakry",
+    "population": "15.1 million",
+    "area": "245,857 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "11.0°N 10.0°W",
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "GP": {
+    "alpha2": "GP",
+    "capital": "Basse-Terre",
+    "population": null,
+    "area": "1,628 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "16.3°N 61.6°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "GM": {
+    "alpha2": "GM",
+    "capital": "Banjul",
+    "population": "2.8 million",
+    "area": "10,689 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.5°N 16.6°W",
+    "borders": [
+      "SEN"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "GW": {
+    "alpha2": "GW",
+    "capital": "Bissau",
+    "population": "2.2 million",
+    "area": "36,125 km²",
+    "languages": {
+      "official": [
+        "Portuguese",
+        "Upper Guinea Creole"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "12.0°N 15.0°W",
+    "borders": [
+      "GIN",
+      "SEN"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "GQ": {
+    "alpha2": "GQ",
+    "capital": "Malabo",
+    "population": "1.9 million",
+    "area": "28,051 km²",
+    "languages": {
+      "official": [
+        "French",
+        "Portuguese",
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "2.0°N 10.0°E",
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "GR": {
+    "alpha2": "GR",
+    "capital": "Athens",
+    "population": "10.4 million",
+    "area": "131,990 km²",
+    "languages": {
+      "official": [
+        "Greek"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "39.0°N 22.0°E",
+    "borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "GD": {
+    "alpha2": "GD",
+    "capital": "St. George's",
+    "population": "117 thousand",
+    "area": "344 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "12.1°N 61.7°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "GL": {
+    "alpha2": "GL",
+    "capital": "Nuuk",
+    "population": "57 thousand",
+    "area": "2,166,086 km²",
+    "languages": {
+      "official": [
+        "Greenlandic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "72.0°N 40.0°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  "GT": {
+    "alpha2": "GT",
+    "capital": "Guatemala City",
+    "population": "18.7 million",
+    "area": "108,889 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.5°N 90.3°W",
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  "GF": {
+    "alpha2": "GF",
+    "capital": "Cayenne",
+    "population": null,
+    "area": "83,534 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "4.0°N 53.0°W",
+    "borders": [
+      "BRA",
+      "SUR"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "GU": {
+    "alpha2": "GU",
+    "capital": "Hagåtña",
+    "population": "169 thousand",
+    "area": "549 km²",
+    "languages": {
+      "official": [
+        "Chamorro",
+        "English",
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.5°N 144.8°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  "GY": {
+    "alpha2": "GY",
+    "capital": "Georgetown",
+    "population": "836 thousand",
+    "area": "214,969 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "5.0°N 59.0°W",
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "HK": {
+    "alpha2": "HK",
+    "capital": "City of Victoria",
+    "population": "7.5 million",
+    "area": "1,104 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Chinese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "22.3°N 114.2°E",
+    "borders": [
+      "CHN"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  "HM": {
+    "alpha2": "HM",
+    "capital": null,
+    "population": null,
+    "area": "412 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "53.1°S 72.5°E",
+    "borders": [],
+    "region": "Antarctic",
+    "subregion": null
+  },
+  "HN": {
+    "alpha2": "HN",
+    "capital": "Tegucigalpa",
+    "population": "11 million",
+    "area": "112,492 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.0°N 86.5°W",
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  "HR": {
+    "alpha2": "HR",
+    "capital": "Zagreb",
+    "population": "3.9 million",
+    "area": "56,594 km²",
+    "languages": {
+      "official": [
+        "Croatian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "45.2°N 15.5°E",
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe"
+  },
+  "HT": {
+    "alpha2": "HT",
+    "capital": "Port-au-Prince",
+    "population": "11.9 million",
+    "area": "27,750 km²",
+    "languages": {
+      "official": [
+        "French",
+        "Haitian Creole"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "19.0°N 72.4°W",
+    "borders": [
+      "DOM"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "HU": {
+    "alpha2": "HU",
+    "capital": "Budapest",
+    "population": "9.5 million",
+    "area": "93,028 km²",
+    "languages": {
+      "official": [
+        "Hungarian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "47.0°N 20.0°E",
+    "borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe"
+  },
+  "ID": {
+    "alpha2": "ID",
+    "capital": "Jakarta",
+    "population": "285.7 million",
+    "area": "1,904,569 km²",
+    "languages": {
+      "official": [
+        "Indonesian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "5.0°S 120.0°E",
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "IM": {
+    "alpha2": "IM",
+    "capital": "Douglas",
+    "population": "84 thousand",
+    "area": "572 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Manx"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "54.3°N 4.5°W",
+    "borders": [],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "IN": {
+    "alpha2": "IN",
+    "capital": "New Delhi",
+    "population": "1463.9 million",
+    "area": "3,287,590 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Hindi",
+        "Tamil"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "20.0°N 77.0°E",
+    "borders": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  "IO": {
+    "alpha2": "IO",
+    "capital": "Diego Garcia",
+    "population": null,
+    "area": "60 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "6.0°S 71.5°E",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "IE": {
+    "alpha2": "IE",
+    "capital": "Dublin",
+    "population": "5.5 million",
+    "area": "70,273 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Irish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "53.0°N 8.0°W",
+    "borders": [
+      "GBR"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "IR": {
+    "alpha2": "IR",
+    "capital": "Tehran",
+    "population": "92.4 million",
+    "area": "1,648,195 km²",
+    "languages": {
+      "official": [
+        "Persian (Farsi)"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "32.0°N 53.0°E",
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  "IQ": {
+    "alpha2": "IQ",
+    "capital": "Baghdad",
+    "population": "47 million",
+    "area": "438,317 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "Aramaic",
+        "Sorani"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "33.0°N 44.0°E",
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "IS": {
+    "alpha2": "IS",
+    "capital": "Reykjavik",
+    "population": "392 thousand",
+    "area": "103,000 km²",
+    "languages": {
+      "official": [
+        "Icelandic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "65.0°N 18.0°W",
+    "borders": [],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "IL": {
+    "alpha2": "IL",
+    "capital": "Jerusalem",
+    "population": "10.1 million",
+    "area": "20,770 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "Hebrew"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "31.5°N 35.1°E",
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "PSE",
+      "SYR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "IT": {
+    "alpha2": "IT",
+    "capital": "Rome",
+    "population": "58.9 million",
+    "area": "301,336 km²",
+    "languages": {
+      "official": [
+        "Italian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "42.8°N 12.8°E",
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "JM": {
+    "alpha2": "JM",
+    "capital": "Kingston",
+    "population": "2.8 million",
+    "area": "10,991 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Jamaican Patois"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.3°N 77.5°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "JE": {
+    "alpha2": "JE",
+    "capital": "Saint Helier",
+    "population": null,
+    "area": "116 km²",
+    "languages": {
+      "official": [
+        "English",
+        "French",
+        "Jèrriais"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "49.3°N 2.2°W",
+    "borders": [],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "JO": {
+    "alpha2": "JO",
+    "capital": "Amman",
+    "population": "11.5 million",
+    "area": "89,342 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "31.0°N 36.0°E",
+    "borders": [
+      "IRQ",
+      "ISR",
+      "PSE",
+      "SAU",
+      "SYR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "JP": {
+    "alpha2": "JP",
+    "capital": "Tokyo",
+    "population": "123.4 million",
+    "area": "377,930 km²",
+    "languages": {
+      "official": [
+        "Japanese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "36.0°N 138.0°E",
+    "borders": [],
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  "KZ": {
+    "alpha2": "KZ",
+    "capital": "Astana",
+    "population": "20.8 million",
+    "area": "2,724,900 km²",
+    "languages": {
+      "official": [
+        "Kazakh",
+        "Russian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "48.0°N 68.0°E",
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  "KE": {
+    "alpha2": "KE",
+    "capital": "Nairobi",
+    "population": "57.5 million",
+    "area": "580,367 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Swahili"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "1.0°N 38.0°E",
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "KG": {
+    "alpha2": "KG",
+    "capital": "Bishkek",
+    "population": "7.3 million",
+    "area": "199,951 km²",
+    "languages": {
+      "official": [
+        "Kyrgyz",
+        "Russian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "41.0°N 75.0°E",
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  "KH": {
+    "alpha2": "KH",
+    "capital": "Phnom Penh",
+    "population": "17.8 million",
+    "area": "181,035 km²",
+    "languages": {
+      "official": [
+        "Khmer"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.0°N 105.0°E",
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "KI": {
+    "alpha2": "KI",
+    "capital": "South Tarawa",
+    "population": "136 thousand",
+    "area": "811 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Gilbertese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "1.4°N 173.0°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  "KN": {
+    "alpha2": "KN",
+    "capital": "Basseterre",
+    "population": "47 thousand",
+    "area": "261 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "17.3°N 62.8°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "KR": {
+    "alpha2": "KR",
+    "capital": "Seoul",
+    "population": "51.7 million",
+    "area": "100,210 km²",
+    "languages": {
+      "official": [
+        "Korean"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "37.0°N 127.5°E",
+    "borders": [
+      "PRK"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  "XK": {
+    "alpha2": "XK",
+    "capital": "Pristina",
+    "population": null,
+    "area": "10,908 km²",
+    "languages": {
+      "official": [
+        "Albanian",
+        "Serbian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "42.7°N 21.2°E",
+    "borders": [
+      "ALB",
+      "MKD",
+      "MNE",
+      "SRB"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe"
+  },
+  "KW": {
+    "alpha2": "KW",
+    "capital": "Kuwait City",
+    "population": "4.9 million",
+    "area": "17,818 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "29.5°N 45.8°E",
+    "borders": [
+      "IRQ",
+      "SAU"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "LA": {
+    "alpha2": "LA",
+    "capital": "Vientiane",
+    "population": "7.9 million",
+    "area": "236,800 km²",
+    "languages": {
+      "official": [
+        "Lao"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.0°N 105.0°E",
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "LB": {
+    "alpha2": "LB",
+    "capital": "Beirut",
+    "population": "5.8 million",
+    "area": "10,452 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "33.8°N 35.8°E",
+    "borders": [
+      "ISR",
+      "SYR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "LR": {
+    "alpha2": "LR",
+    "capital": "Monrovia",
+    "population": "5.7 million",
+    "area": "111,369 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "6.5°N 9.5°W",
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "LY": {
+    "alpha2": "LY",
+    "capital": "Tripoli",
+    "population": "7.5 million",
+    "area": "1,759,540 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "25.0°N 17.0°E",
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  "LC": {
+    "alpha2": "LC",
+    "capital": "Castries",
+    "population": "180 thousand",
+    "area": "616 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.9°N 61.0°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "LI": {
+    "alpha2": "LI",
+    "capital": "Vaduz",
+    "population": "41 thousand",
+    "area": "160 km²",
+    "languages": {
+      "official": [
+        "German"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "47.3°N 9.5°E",
+    "borders": [
+      "AUT",
+      "CHE"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  "LK": {
+    "alpha2": "LK",
+    "capital": "Colombo",
+    "population": "21.8 million",
+    "area": "65,610 km²",
+    "languages": {
+      "official": [
+        "Sinhala",
+        "Tamil"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "7.0°N 81.0°E",
+    "borders": [
+      "IND"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  "LS": {
+    "alpha2": "LS",
+    "capital": "Maseru",
+    "population": "2.4 million",
+    "area": "30,355 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Sotho"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "29.5°S 28.5°E",
+    "borders": [
+      "ZAF"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  "LT": {
+    "alpha2": "LT",
+    "capital": "Vilnius",
+    "population": "2.9 million",
+    "area": "65,300 km²",
+    "languages": {
+      "official": [
+        "Lithuanian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "56.0°N 24.0°E",
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "LU": {
+    "alpha2": "LU",
+    "capital": "Luxembourg",
+    "population": "687 thousand",
+    "area": "2,586 km²",
+    "languages": {
+      "official": [
+        "German",
+        "French",
+        "Luxembourgish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "49.8°N 6.2°E",
+    "borders": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  "LV": {
+    "alpha2": "LV",
+    "capital": "Riga",
+    "population": "1.8 million",
+    "area": "64,559 km²",
+    "languages": {
+      "official": [
+        "Latvian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "57.0°N 25.0°E",
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "MO": {
+    "alpha2": "MO",
+    "capital": null,
+    "population": "686 thousand",
+    "area": "30 km²",
+    "languages": {
+      "official": [
+        "Portuguese",
+        "Chinese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "22.2°N 113.5°E",
+    "borders": [
+      "CHN"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  "MF": {
+    "alpha2": "MF",
+    "capital": "Marigot",
+    "population": "25 thousand",
+    "area": "53 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.1°N 64.0°W",
+    "borders": [
+      "SXM"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "MA": {
+    "alpha2": "MA",
+    "capital": "Rabat",
+    "population": "38.4 million",
+    "area": "446,550 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "Berber"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "32.0°N 5.0°W",
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  "MC": {
+    "alpha2": "MC",
+    "capital": "Monaco",
+    "population": "38 thousand",
+    "area": "2.02 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "43.7°N 7.4°E",
+    "borders": [
+      "FRA"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  "MD": {
+    "alpha2": "MD",
+    "capital": "Chișinău",
+    "population": "2.4 million",
+    "area": "33,846 km²",
+    "languages": {
+      "official": [
+        "Moldavian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "47.0°N 29.0°E",
+    "borders": [
+      "ROU",
+      "UKR"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  "MG": {
+    "alpha2": "MG",
+    "capital": "Antananarivo",
+    "population": "32.7 million",
+    "area": "587,041 km²",
+    "languages": {
+      "official": [
+        "French",
+        "Malagasy"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "20.0°S 47.0°E",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "MV": {
+    "alpha2": "MV",
+    "capital": "Malé",
+    "population": "530 thousand",
+    "area": "300 km²",
+    "languages": {
+      "official": [
+        "Maldivian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "3.3°N 73.0°E",
+    "borders": [],
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  "MX": {
+    "alpha2": "MX",
+    "capital": "Mexico City",
+    "population": "131.9 million",
+    "area": "1,964,375 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "23.0°N 102.0°W",
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  "MH": {
+    "alpha2": "MH",
+    "capital": "Majuro",
+    "population": "36 thousand",
+    "area": "181 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Marshallese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "9.0°N 168.0°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  "MK": {
+    "alpha2": "MK",
+    "capital": "Skopje",
+    "population": "1.8 million",
+    "area": "25,713 km²",
+    "languages": {
+      "official": [
+        "Macedonian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "41.8°N 22.0°E",
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "UNK",
+      "SRB"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe"
+  },
+  "ML": {
+    "alpha2": "ML",
+    "capital": "Bamako",
+    "population": "25.2 million",
+    "area": "1,240,192 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "17.0°N 4.0°W",
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "MT": {
+    "alpha2": "MT",
+    "capital": "Valletta",
+    "population": "580 thousand",
+    "area": "316 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Maltese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "35.8°N 14.6°E",
+    "borders": [],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "MM": {
+    "alpha2": "MM",
+    "capital": "Naypyidaw",
+    "population": "54.9 million",
+    "area": "676,578 km²",
+    "languages": {
+      "official": [
+        "Burmese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "22.0°N 98.0°E",
+    "borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "ME": {
+    "alpha2": "ME",
+    "capital": "Podgorica",
+    "population": "623 thousand",
+    "area": "13,812 km²",
+    "languages": {
+      "official": [
+        "Montenegrin"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "42.5°N 19.3°E",
+    "borders": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "UNK",
+      "SRB"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe"
+  },
+  "MN": {
+    "alpha2": "MN",
+    "capital": "Ulan Bator",
+    "population": "3.6 million",
+    "area": "1,564,110 km²",
+    "languages": {
+      "official": [
+        "Mongolian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "46.0°N 105.0°E",
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  "MP": {
+    "alpha2": "MP",
+    "capital": "Saipan",
+    "population": "44 thousand",
+    "area": "464 km²",
+    "languages": {
+      "official": [
+        "Carolinian",
+        "Chamorro",
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.2°N 145.8°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  "MZ": {
+    "alpha2": "MZ",
+    "capital": "Maputo",
+    "population": "35.6 million",
+    "area": "801,590 km²",
+    "languages": {
+      "official": [
+        "Portuguese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.3°S 35.0°E",
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "MR": {
+    "alpha2": "MR",
+    "capital": "Nouakchott",
+    "population": "5.3 million",
+    "area": "1,030,700 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "20.0°N 12.0°W",
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "MS": {
+    "alpha2": "MS",
+    "capital": "Plymouth",
+    "population": null,
+    "area": "102 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "16.8°N 62.2°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "MQ": {
+    "alpha2": "MQ",
+    "capital": "Fort-de-France",
+    "population": null,
+    "area": "1,128 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "14.7°N 61.0°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "MU": {
+    "alpha2": "MU",
+    "capital": "Port Louis",
+    "population": "1.2 million",
+    "area": "2,040 km²",
+    "languages": {
+      "official": [
+        "English",
+        "French",
+        "Mauritian Creole"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "20.3°S 57.5°E",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "MW": {
+    "alpha2": "MW",
+    "capital": "Lilongwe",
+    "population": "22.2 million",
+    "area": "118,484 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Chewa"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.5°S 34.0°E",
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "MY": {
+    "alpha2": "MY",
+    "capital": "Kuala Lumpur",
+    "population": "36 million",
+    "area": "330,803 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Malay"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "2.5°N 112.5°E",
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "YT": {
+    "alpha2": "YT",
+    "capital": "Mamoudzou",
+    "population": null,
+    "area": "374 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "12.8°S 45.2°E",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "NA": {
+    "alpha2": "NA",
+    "capital": "Windhoek",
+    "population": "3.1 million",
+    "area": "825,615 km²",
+    "languages": {
+      "official": [
+        "Afrikaans",
+        "German",
+        "English",
+        "Herero",
+        "Khoekhoe",
+        "Kwangali",
+        "Lozi",
+        "Ndonga",
+        "Tswana"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "22.0°S 17.0°E",
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  "NC": {
+    "alpha2": "NC",
+    "capital": "Nouméa",
+    "population": "295 thousand",
+    "area": "18,575 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "21.5°S 165.5°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  "NE": {
+    "alpha2": "NE",
+    "capital": "Niamey",
+    "population": "27.9 million",
+    "area": "1,267,000 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "16.0°N 8.0°E",
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "NF": {
+    "alpha2": "NF",
+    "capital": "Kingston",
+    "population": null,
+    "area": "36 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Norfuk"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "29.0°S 167.9°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  "NG": {
+    "alpha2": "NG",
+    "capital": "Abuja",
+    "population": "237.5 million",
+    "area": "923,768 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "10.0°N 8.0°E",
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "NI": {
+    "alpha2": "NI",
+    "capital": "Managua",
+    "population": "7 million",
+    "area": "130,373 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.0°N 85.0°W",
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  "NU": {
+    "alpha2": "NU",
+    "capital": "Alofi",
+    "population": null,
+    "area": "260 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Niuean"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "19.0°S 169.9°W",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "NL": {
+    "alpha2": "NL",
+    "capital": "Amsterdam",
+    "population": "18.1 million",
+    "area": "41,850 km²",
+    "languages": {
+      "official": [
+        "Dutch"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "52.5°N 5.8°E",
+    "borders": [
+      "BEL",
+      "DEU"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe"
+  },
+  "NO": {
+    "alpha2": "NO",
+    "capital": "Oslo",
+    "population": "5.6 million",
+    "area": "323,802 km²",
+    "languages": {
+      "official": [
+        "Norwegian Nynorsk",
+        "Norwegian Bokmål",
+        "Sami"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "62.0°N 10.0°E",
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "NP": {
+    "alpha2": "NP",
+    "capital": "Kathmandu",
+    "population": "29.6 million",
+    "area": "147,181 km²",
+    "languages": {
+      "official": [
+        "Nepali"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "28.0°N 84.0°E",
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  "NR": {
+    "alpha2": "NR",
+    "capital": "Yaren",
+    "population": "12 thousand",
+    "area": "21 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Nauru"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "0.5°S 166.9°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  "NZ": {
+    "alpha2": "NZ",
+    "capital": "Wellington",
+    "population": "5.3 million",
+    "area": "270,467 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Māori",
+        "New Zealand Sign Language"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "41.0°S 174.0°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+  },
+  "OM": {
+    "alpha2": "OM",
+    "capital": "Muscat",
+    "population": "5.5 million",
+    "area": "309,500 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "21.0°N 57.0°E",
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "PK": {
+    "alpha2": "PK",
+    "capital": "Islamabad",
+    "population": "255.2 million",
+    "area": "881,912 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Urdu"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "30.0°N 70.0°E",
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia"
+  },
+  "PA": {
+    "alpha2": "PA",
+    "capital": "Panama City",
+    "population": "4.6 million",
+    "area": "75,417 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "9.0°N 80.0°W",
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  "PN": {
+    "alpha2": "PN",
+    "capital": "Adamstown",
+    "population": null,
+    "area": "47 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "25.1°S 130.1°W",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "PE": {
+    "alpha2": "PE",
+    "capital": "Lima",
+    "population": "34.6 million",
+    "area": "1,285,216 km²",
+    "languages": {
+      "official": [
+        "Aymara",
+        "Quechua",
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "10.0°S 76.0°W",
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "PH": {
+    "alpha2": "PH",
+    "capital": "Manila",
+    "population": "116.8 million",
+    "area": "342,353 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Filipino"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.0°N 122.0°E",
+    "borders": [],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "PW": {
+    "alpha2": "PW",
+    "capital": "Ngerulmud",
+    "population": "18 thousand",
+    "area": "459 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Palauan"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "7.5°N 134.5°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Micronesia"
+  },
+  "PG": {
+    "alpha2": "PG",
+    "capital": "Port Moresby",
+    "population": "10.8 million",
+    "area": "462,840 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Hiri Motu",
+        "Tok Pisin"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "6.0°S 147.0°E",
+    "borders": [
+      "IDN"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  "PL": {
+    "alpha2": "PL",
+    "capital": "Warsaw",
+    "population": "36.4 million",
+    "area": "312,679 km²",
+    "languages": {
+      "official": [
+        "Polish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "52.0°N 20.0°E",
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe"
+  },
+  "PR": {
+    "alpha2": "PR",
+    "capital": "San Juan",
+    "population": "3.2 million",
+    "area": "8,870 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.3°N 66.5°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "KP": {
+    "alpha2": "KP",
+    "capital": "Pyongyang",
+    "population": "26.6 million",
+    "area": "120,538 km²",
+    "languages": {
+      "official": [
+        "Korean"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "40.0°N 127.0°E",
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  "PT": {
+    "alpha2": "PT",
+    "capital": "Lisbon",
+    "population": "10.8 million",
+    "area": "92,090 km²",
+    "languages": {
+      "official": [
+        "Portuguese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "39.5°N 8.0°W",
+    "borders": [
+      "ESP"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "PY": {
+    "alpha2": "PY",
+    "capital": "Asunción",
+    "population": "7 million",
+    "area": "406,752 km²",
+    "languages": {
+      "official": [
+        "Guaraní",
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "23.0°S 58.0°W",
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "PS": {
+    "alpha2": "PS",
+    "capital": "Ramallah",
+    "population": "5.4 million",
+    "area": "6,220 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "31.9°N 35.2°E",
+    "borders": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "PF": {
+    "alpha2": "PF",
+    "capital": "Papeetē",
+    "population": "282 thousand",
+    "area": "4,167 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.0°S 140.0°W",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "QA": {
+    "alpha2": "QA",
+    "capital": "Doha",
+    "population": "3 million",
+    "area": "11,586 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "25.5°N 51.3°E",
+    "borders": [
+      "SAU"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "RE": {
+    "alpha2": "RE",
+    "capital": "Saint-Denis",
+    "population": null,
+    "area": "2,511 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "21.1°S 55.5°E",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "RO": {
+    "alpha2": "RO",
+    "capital": "Bucharest",
+    "population": "19 million",
+    "area": "238,391 km²",
+    "languages": {
+      "official": [
+        "Romanian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "46.0°N 25.0°E",
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe"
+  },
+  "RU": {
+    "alpha2": "RU",
+    "capital": "Moscow",
+    "population": "143.5 million",
+    "area": "17,098,242 km²",
+    "languages": {
+      "official": [
+        "Russian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "60.0°N 100.0°E",
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  "RW": {
+    "alpha2": "RW",
+    "capital": "Kigali",
+    "population": "14.6 million",
+    "area": "26,338 km²",
+    "languages": {
+      "official": [
+        "English",
+        "French",
+        "Kinyarwanda"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "2.0°S 30.0°E",
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "SA": {
+    "alpha2": "SA",
+    "capital": "Riyadh",
+    "population": "37 million",
+    "area": "2,149,690 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "25.0°N 45.0°E",
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "SD": {
+    "alpha2": "SD",
+    "capital": "Khartoum",
+    "population": "51.7 million",
+    "area": "1,886,068 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.0°N 30.0°E",
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  "SN": {
+    "alpha2": "SN",
+    "capital": "Dakar",
+    "population": "18.9 million",
+    "area": "196,722 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "14.0°N 14.0°W",
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "SG": {
+    "alpha2": "SG",
+    "capital": "Singapore",
+    "population": "6.1 million",
+    "area": "710 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Malay",
+        "Tamil",
+        "Chinese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "1.4°N 103.8°E",
+    "borders": [],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "GS": {
+    "alpha2": "GS",
+    "capital": "King Edward Point",
+    "population": null,
+    "area": "3,903 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "54.5°S 37.0°W",
+    "borders": [],
+    "region": "Antarctic",
+    "subregion": null
+  },
+  "SJ": {
+    "alpha2": "SJ",
+    "capital": "Longyearbyen",
+    "population": null,
+    "area": "-1 km²",
+    "languages": {
+      "official": [
+        "Norwegian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "78.0°N 20.0°E",
+    "borders": [],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "SB": {
+    "alpha2": "SB",
+    "capital": "Honiara",
+    "population": "839 thousand",
+    "area": "28,896 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "8.0°S 159.0°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  "SL": {
+    "alpha2": "SL",
+    "capital": "Freetown",
+    "population": "8.8 million",
+    "area": "71,740 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "8.5°N 11.5°W",
+    "borders": [
+      "GIN",
+      "LBR"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "SV": {
+    "alpha2": "SV",
+    "capital": "San Salvador",
+    "population": "6.4 million",
+    "area": "21,041 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.8°N 88.9°W",
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  "SM": {
+    "alpha2": "SM",
+    "capital": "City of San Marino",
+    "population": "34 thousand",
+    "area": "61 km²",
+    "languages": {
+      "official": [
+        "Italian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "43.8°N 12.4°E",
+    "borders": [
+      "ITA"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "SO": {
+    "alpha2": "SO",
+    "capital": "Mogadishu",
+    "population": "19.7 million",
+    "area": "637,657 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "Somali"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "10.0°N 49.0°E",
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "PM": {
+    "alpha2": "PM",
+    "capital": "Saint-Pierre",
+    "population": null,
+    "area": "242 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "46.8°N 56.3°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  "RS": {
+    "alpha2": "RS",
+    "capital": "Belgrade",
+    "population": "6.5 million",
+    "area": "88,361 km²",
+    "languages": {
+      "official": [
+        "Serbian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "44.0°N 21.0°E",
+    "borders": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "UNK",
+      "MKD",
+      "MNE",
+      "ROU"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe"
+  },
+  "SS": {
+    "alpha2": "SS",
+    "capital": "Juba",
+    "population": "12.2 million",
+    "area": "619,745 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "7.0°N 30.0°E",
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "ST": {
+    "alpha2": "ST",
+    "capital": "São Tomé",
+    "population": "240 thousand",
+    "area": "964 km²",
+    "languages": {
+      "official": [
+        "Portuguese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "1.0°N 7.0°E",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "SR": {
+    "alpha2": "SR",
+    "capital": "Paramaribo",
+    "population": "640 thousand",
+    "area": "163,820 km²",
+    "languages": {
+      "official": [
+        "Dutch"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "4.0°N 56.0°W",
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "SK": {
+    "alpha2": "SK",
+    "capital": "Bratislava",
+    "population": "5.4 million",
+    "area": "49,037 km²",
+    "languages": {
+      "official": [
+        "Slovak"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "48.7°N 19.5°E",
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe"
+  },
+  "SI": {
+    "alpha2": "SI",
+    "capital": "Ljubljana",
+    "population": "2.1 million",
+    "area": "20,273 km²",
+    "languages": {
+      "official": [
+        "Slovene"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "46.1°N 14.8°E",
+    "borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe"
+  },
+  "SE": {
+    "alpha2": "SE",
+    "capital": "Stockholm",
+    "population": "10.6 million",
+    "area": "450,295 km²",
+    "languages": {
+      "official": [
+        "Swedish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "62.0°N 15.0°E",
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe"
+  },
+  "SZ": {
+    "alpha2": "SZ",
+    "capital": "Lobamba",
+    "population": "1.3 million",
+    "area": "17,364 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Swazi"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "26.5°S 31.5°E",
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  "SX": {
+    "alpha2": "SX",
+    "capital": "Philipsburg",
+    "population": "44 thousand",
+    "area": "34 km²",
+    "languages": {
+      "official": [
+        "English",
+        "French",
+        "Dutch"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.0°N 63.0°W",
+    "borders": [
+      "MAF"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "SC": {
+    "alpha2": "SC",
+    "capital": "Victoria",
+    "population": "123 thousand",
+    "area": "452 km²",
+    "languages": {
+      "official": [
+        "Seychellois Creole",
+        "English",
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "4.6°S 55.7°E",
+    "borders": [],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "SY": {
+    "alpha2": "SY",
+    "capital": "Damascus",
+    "population": "25.6 million",
+    "area": "185,180 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "35.0°N 38.0°E",
+    "borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "TC": {
+    "alpha2": "TC",
+    "capital": "Cockburn Town",
+    "population": "47 thousand",
+    "area": "948 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "21.8°N 71.6°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "TD": {
+    "alpha2": "TD",
+    "capital": "N'Djamena",
+    "population": "21 million",
+    "area": "1,284,000 km²",
+    "languages": {
+      "official": [
+        "Arabic",
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.0°N 19.0°E",
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa"
+  },
+  "TG": {
+    "alpha2": "TG",
+    "capital": "Lomé",
+    "population": "8.6 million",
+    "area": "56,785 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "8.0°N 1.2°E",
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa"
+  },
+  "TH": {
+    "alpha2": "TH",
+    "capital": "Bangkok",
+    "population": "71.6 million",
+    "area": "513,120 km²",
+    "languages": {
+      "official": [
+        "Thai"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.0°N 100.0°E",
+    "borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "TJ": {
+    "alpha2": "TJ",
+    "capital": "Dushanbe",
+    "population": "10.8 million",
+    "area": "143,100 km²",
+    "languages": {
+      "official": [
+        "Russian",
+        "Tajik"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "39.0°N 71.0°E",
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  "TK": {
+    "alpha2": "TK",
+    "capital": "Fakaofo",
+    "population": null,
+    "area": "12 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Samoan",
+        "Tokelauan"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "9.0°S 172.0°W",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "TM": {
+    "alpha2": "TM",
+    "capital": "Ashgabat",
+    "population": "7.6 million",
+    "area": "488,100 km²",
+    "languages": {
+      "official": [
+        "Russian",
+        "Turkmen"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "40.0°N 60.0°E",
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  "TL": {
+    "alpha2": "TL",
+    "capital": "Dili",
+    "population": "1.4 million",
+    "area": "14,874 km²",
+    "languages": {
+      "official": [
+        "Portuguese",
+        "Tetum"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "8.8°S 125.9°E",
+    "borders": [
+      "IDN"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "TO": {
+    "alpha2": "TO",
+    "capital": "Nuku'alofa",
+    "population": "104 thousand",
+    "area": "747 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Tongan"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "20.0°S 175.0°W",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "TT": {
+    "alpha2": "TT",
+    "capital": "Port of Spain",
+    "population": "1.4 million",
+    "area": "5,130 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "11.0°N 61.0°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "TN": {
+    "alpha2": "TN",
+    "capital": "Tunis",
+    "population": "12.3 million",
+    "area": "163,610 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "34.0°N 9.0°E",
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa"
+  },
+  "TR": {
+    "alpha2": "TR",
+    "capital": "Ankara",
+    "population": "85.9 million",
+    "area": "783,562 km²",
+    "languages": {
+      "official": [
+        "Turkish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "39.0°N 35.0°E",
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "TV": {
+    "alpha2": "TV",
+    "capital": "Funafuti",
+    "population": "9 thousand",
+    "area": "26 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Tuvaluan"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "8.0°S 178.0°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "TW": {
+    "alpha2": "TW",
+    "capital": "Taipei",
+    "population": null,
+    "area": "36,193 km²",
+    "languages": {
+      "official": [
+        "Chinese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "23.5°N 121.0°E",
+    "borders": [],
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+  },
+  "TZ": {
+    "alpha2": "TZ",
+    "capital": "Dodoma",
+    "population": "70.5 million",
+    "area": "945,087 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Swahili"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "6.0°S 35.0°E",
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "UG": {
+    "alpha2": "UG",
+    "capital": "Kampala",
+    "population": "51.4 million",
+    "area": "241,550 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Swahili"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "1.0°N 32.0°E",
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "UA": {
+    "alpha2": "UA",
+    "capital": "Kyiv",
+    "population": "39 million",
+    "area": "603,500 km²",
+    "languages": {
+      "official": [
+        "Ukrainian"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "49.0°N 32.0°E",
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+  },
+  "UM": {
+    "alpha2": "UM",
+    "capital": null,
+    "population": null,
+    "area": "34.2 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "19.3°N 166.6°E",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  "UY": {
+    "alpha2": "UY",
+    "capital": "Montevideo",
+    "population": "3.4 million",
+    "area": "181,034 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "33.0°S 56.0°W",
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "US": {
+    "alpha2": "US",
+    "capital": "Washington D.C.",
+    "population": "341.8 million",
+    "area": "9,372,610 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "38.0°N 97.0°W",
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  "UZ": {
+    "alpha2": "UZ",
+    "capital": "Tashkent",
+    "population": "37.1 million",
+    "area": "447,400 km²",
+    "languages": {
+      "official": [
+        "Russian",
+        "Uzbek"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "41.0°N 64.0°E",
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia"
+  },
+  "VA": {
+    "alpha2": "VA",
+    "capital": "Vatican City",
+    "population": null,
+    "area": "0.44 km²",
+    "languages": {
+      "official": [
+        "Italian",
+        "Latin"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "41.9°N 12.4°E",
+    "borders": [
+      "ITA"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe"
+  },
+  "VC": {
+    "alpha2": "VC",
+    "capital": "Kingstown",
+    "population": "100 thousand",
+    "area": "389 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.3°N 61.2°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "VE": {
+    "alpha2": "VE",
+    "capital": "Caracas",
+    "population": "28.5 million",
+    "area": "916,445 km²",
+    "languages": {
+      "official": [
+        "Spanish"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "8.0°N 66.0°W",
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  "VG": {
+    "alpha2": "VG",
+    "capital": "Road Town",
+    "population": "40 thousand",
+    "area": "151 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.4°N 64.6°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "VI": {
+    "alpha2": "VI",
+    "capital": "Charlotte Amalie",
+    "population": "104 thousand",
+    "area": "347 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "18.4°N 64.9°W",
+    "borders": [],
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  "VN": {
+    "alpha2": "VN",
+    "capital": "Hanoi",
+    "population": "101.6 million",
+    "area": "331,212 km²",
+    "languages": {
+      "official": [
+        "Vietnamese"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "16.2°N 107.8°E",
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+  },
+  "VU": {
+    "alpha2": "VU",
+    "capital": "Port Vila",
+    "population": "335 thousand",
+    "area": "12,189 km²",
+    "languages": {
+      "official": [
+        "Bislama",
+        "English",
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "16.0°S 167.0°E",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Melanesia"
+  },
+  "WF": {
+    "alpha2": "WF",
+    "capital": "Mata-Utu",
+    "population": null,
+    "area": "142 km²",
+    "languages": {
+      "official": [
+        "French"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.3°S 176.2°W",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "WS": {
+    "alpha2": "WS",
+    "capital": "Apia",
+    "population": "219 thousand",
+    "area": "2,842 km²",
+    "languages": {
+      "official": [
+        "English",
+        "Samoan"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "13.6°S 172.3°W",
+    "borders": [],
+    "region": "Oceania",
+    "subregion": "Polynesia"
+  },
+  "YE": {
+    "alpha2": "YE",
+    "capital": "Sana'a",
+    "population": "41.8 million",
+    "area": "527,968 km²",
+    "languages": {
+      "official": [
+        "Arabic"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.0°N 48.0°E",
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia"
+  },
+  "ZA": {
+    "alpha2": "ZA",
+    "capital": "Pretoria",
+    "population": "64.7 million",
+    "area": "1,221,037 km²",
+    "languages": {
+      "official": [
+        "Afrikaans",
+        "English",
+        "Southern Ndebele",
+        "Northern Sotho",
+        "Southern Sotho",
+        "Swazi",
+        "Tswana",
+        "Tsonga",
+        "Venda",
+        "Xhosa",
+        "Zulu"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "29.0°S 24.0°E",
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa"
+  },
+  "ZM": {
+    "alpha2": "ZM",
+    "capital": "Lusaka",
+    "population": "21.9 million",
+    "area": "752,612 km²",
+    "languages": {
+      "official": [
+        "English"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "15.0°S 30.0°E",
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  },
+  "ZW": {
+    "alpha2": "ZW",
+    "capital": "Harare",
+    "population": "17 million",
+    "area": "390,757 km²",
+    "languages": {
+      "official": [
+        "Chibarwe",
+        "English",
+        "Kalanga",
+        "Khoisan",
+        "Ndau",
+        "Northern Ndebele",
+        "Chewa",
+        "Shona",
+        "Sotho",
+        "Tonga",
+        "Tswana",
+        "Tsonga",
+        "Venda",
+        "Xhosa",
+        "Zimbabwean Sign Language"
+      ],
+      "widelySpoken": []
+    },
+    "coordinates": "20.0°S 30.0°E",
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+  }
+}

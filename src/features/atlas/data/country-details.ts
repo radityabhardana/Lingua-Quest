@@ -1,4 +1,6 @@
 // Enriched country data for detail pages. Sample data for 3 countries; rest stubbed.
+import enrichedSource from './country-details-enriched.json'
+
 export type CountryDetail = {
   alpha2: string
   capital: string
@@ -14,7 +16,41 @@ export type CountryDetail = {
   cultureId: string
   funFactsEn: string[]
   funFactsId: string[]
+  introEn?: string  // Hero one-liner
+  introId?: string
+  phrases?: Array<{
+    en: string
+    translation: string
+    romanization?: string
+    note?: string
+  }>
+  expeditions?: string[]  // Expedition IDs
+  /** Optional visual anchor images keyed by theme. */
+  images?: {
+    capital?: string
+    landscape?: string
+    culture?: string
+    area?: string
+    language?: string
+  }
 }
+
+type EnrichedRecord = {
+  alpha2: string
+  capital: string | null
+  population: string | null
+  area: string | null
+  languages: { official: string[]; widelySpoken: string[] }
+  coordinates: string | null
+  borders: string[]
+  region: string | null
+  subregion: string | null
+}
+
+const enriched = enrichedSource as Record<string, EnrichedRecord>
+
+import imageSource from './country-images.json'
+const countryImages = imageSource as Record<string, { capital?: string; landscape?: string; culture?: string; area?: string; language?: string }>
 
 // Sample data — Indonesia, USA, Japan
 const sampleData: CountryDetail[] = [
@@ -44,7 +80,42 @@ const sampleData: CountryDetail[] = [
       'Negara terpadat keempat di dunia',
       'Borobudur adalah candi Buddha terbesar',
       'Lebih dari 700 bahasa masih digunakan'
-    ]
+    ],
+    introEn: 'An archipelago of thousands of islands, where diverse cultures meet ancient traditions and modern aspirations.',
+    introId: 'Kepulauan ribuan pulau, tempat beragam budaya bertemu tradisi kuno dan aspirasi modern.',
+    phrases: [
+      {
+        en: 'Hello',
+        translation: 'Halo',
+        note: 'Informal greeting, commonly used'
+      },
+      {
+        en: 'Good morning',
+        translation: 'Selamat pagi',
+        note: 'Used until around 11 AM'
+      },
+      {
+        en: 'Thank you',
+        translation: 'Terima kasih',
+        note: 'Standard expression of gratitude'
+      },
+      {
+        en: 'You\'re welcome',
+        translation: 'Sama-sama',
+        note: 'Literally "same-same", mutual acknowledgment'
+      },
+      {
+        en: 'Excuse me / Sorry',
+        translation: 'Permisi / Maaf',
+        note: 'Permisi for attention, maaf for apology'
+      },
+      {
+        en: 'How much?',
+        translation: 'Berapa harganya?',
+        note: 'Essential for markets and shops'
+      }
+    ],
+    expeditions: ['yogyakarta-01']
   },
   {
     alpha2: 'US',
@@ -72,6 +143,16 @@ const sampleData: CountryDetail[] = [
       'Yellowstone: taman nasional pertama (1872)',
       'Internet berasal dari ARPANET',
       '50 negara bagian dengan budaya khas'
+    ],
+    introEn: 'A vast nation of fifty states, shaped by immigration and innovation across diverse landscapes and cultures.',
+    introId: 'Bangsa luas dengan lima puluh negara bagian, dibentuk oleh imigrasi dan inovasi di seluruh lanskap dan budaya beragam.',
+    phrases: [
+      { en: 'Hello', translation: 'Hello', note: 'Common informal greeting across the country' },
+      { en: 'Thank you', translation: 'Thank you', note: 'Standard expression of gratitude' },
+      { en: 'Excuse me', translation: 'Excuse me', note: 'Used to get attention or apologize' },
+      { en: 'How are you?', translation: 'How are you?', note: 'Casual greeting among acquaintances' },
+      { en: 'Please', translation: 'Please', note: 'Added to requests for politeness' },
+      { en: 'Goodbye', translation: 'Goodbye', note: 'Common parting phrase' }
     ]
   },
   {
@@ -100,39 +181,122 @@ const sampleData: CountryDetail[] = [
       'Lebih dari 6.800 pulau di kepulauan',
       'Harapan hidup tertinggi di dunia',
       'Kereta peluru Shinkansen sejak 1964'
-    ]
+    ],
+    introEn: 'Where ancient temples stand beside neon cities, tradition and innovation exist in harmonious balance.',
+    introId: 'Tempat kuil kuno berdiri di samping kota neon, tradisi dan inovasi hadir dalam keseimbangan harmonis.',
+    phrases: [
+      {
+        en: 'Hello',
+        translation: 'こんにちは',
+        romanization: 'Konnichiwa',
+        note: 'Standard daytime greeting'
+      },
+      {
+        en: 'Good morning',
+        translation: 'おはようございます',
+        romanization: 'Ohayō gozaimasu',
+        note: 'Polite morning greeting'
+      },
+      {
+        en: 'Thank you',
+        translation: 'ありがとうございます',
+        romanization: 'Arigatō gozaimasu',
+        note: 'Polite expression of gratitude'
+      },
+      {
+        en: 'Excuse me',
+        translation: 'すみません',
+        romanization: 'Sumimasen',
+        note: 'Also used for "sorry" and getting attention'
+      },
+      {
+        en: 'Yes / No',
+        translation: 'はい / いいえ',
+        romanization: 'Hai / Iie',
+        note: 'Basic affirmation and negation'
+      },
+      {
+        en: 'I don\'t understand',
+        translation: 'わかりません',
+        romanization: 'Wakarimasen',
+        note: 'Useful when communication is difficult'
+      }
+    ],
+    expeditions: ['kyoto-01']
   }
 ]
 
 export const detailsByCode = new Map(sampleData.map(d => [d.alpha2, d]))
 
-// Placeholder generator for countries without enriched data
+// Resolve a human-readable country name from an ISO3 border code.
+import { countries } from './manifest'
+const byIso3 = new Map(countries.map(c => [c.alpha3, c]))
+
+function resolveBorderNames(codes: string[]): string[] {
+  return codes
+    .map(code => byIso3.get(code)?.nameEn)
+    .filter((n): n is string => Boolean(n))
+}
+
+/**
+ * Returns country detail. Prefers hand-written editorial content (culture,
+ * fun facts, phrases) where it exists, and fills factual fields from the
+ * verified enriched dataset for every other country. Never returns
+ * placeholder strings.
+ */
 export function getCountryDetail(alpha2: string): CountryDetail {
-  const existing = detailsByCode.get(alpha2)
-  if (existing) return existing
-  
-  // Stub structure for enrichment
+  const editorial = detailsByCode.get(alpha2)
+  const facts = enriched[alpha2]
+  const images = countryImages[alpha2]
+
+  if (editorial) {
+    // Editorial content wins, but backfill any missing factual field.
+    return {
+      ...editorial,
+      capital: editorial.capital || facts?.capital || '—',
+      population: editorial.population || facts?.population || '—',
+      area: editorial.area || facts?.area || '—',
+      coordinates: editorial.coordinates || facts?.coordinates || '—',
+      languages: {
+        official: editorial.languages.official.length
+          ? editorial.languages.official
+          : (facts?.languages.official ?? []),
+        widelySpoken: editorial.languages.widelySpoken ?? facts?.languages.widelySpoken ?? []
+      },
+      borders: editorial.borders.length
+        ? editorial.borders
+        : resolveBorderNames(facts?.borders ?? []),
+      images: {
+        capital: images?.capital,
+        landscape: images?.landscape,
+        culture: images?.culture,
+        area: images?.area,
+        language: images?.language
+      }
+    }
+  }
+
+  const official = facts?.languages.official ?? []
+  const borderNames = resolveBorderNames(facts?.borders ?? [])
+
   return {
     alpha2,
-    capital: '[Capital data needed]',
-    population: '[Population data needed]',
-    area: '[Area data needed]',
-    languages: {
-      official: ['[Language data needed]']
-    },
-    coordinates: '[Coordinates data needed]',
-    borders: [],
-    cultureEn: 'Cultural information for this country is being researched. Check back soon for detailed insights into traditions, history, and contemporary life.',
-    cultureId: 'Informasi budaya untuk negara ini sedang diriset. Kembali lagi untuk wawasan mendetail tentang tradisi, sejarah, dan kehidupan kontemporer.',
-    funFactsEn: [
-      'Rich cultural heritage',
-      'Unique geographic features',
-      'Diverse linguistic landscape'
-    ],
-    funFactsId: [
-      'Warisan budaya yang kaya',
-      'Fitur geografis unik',
-      'Lanskap linguistik beragam'
-    ]
+    capital: facts?.capital ?? '—',
+    population: facts?.population ?? '—',
+    area: facts?.area ?? '—',
+    languages: { official, widelySpoken: [] },
+    coordinates: facts?.coordinates ?? '—',
+    borders: borderNames,
+    cultureEn: '',
+    cultureId: '',
+    funFactsEn: [],
+    funFactsId: [],
+    images: {
+      capital: images?.capital,
+      landscape: images?.landscape,
+      culture: images?.culture,
+      area: images?.area,
+      language: images?.language
+    }
   }
 }

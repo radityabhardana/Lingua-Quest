@@ -237,3 +237,5 @@ section[id], div[id], main[id], h1[id] { scroll-margin-top: 1.5rem; }
   .country-list li button[aria-pressed='true'], .country-list li button[aria-current='true'] { border: 3px solid Highlight; }
   .text-link { border-color: LinkText; }
 }
+
+.route-loading { min-height: 100svh; background: var(--night); }
